@@ -1,0 +1,59 @@
+{
+ "telefone_whatsapp": "46709347315",
+ "telefone_exibicao": "+46 70 934 73 15",
+ "instagram": "edilainedeoliveirasweden",
+ "cidade_base": "Södertälje",
+ "zonas": [
+  {
+   "taxa": 0,
+   "cidades": [
+    "Södertälje",
+    "Nykvarn",
+    "Järna",
+    "Mölnbo"
+   ]
+  },
+  {
+   "taxa": 250,
+   "cidades": [
+    "Stockholm",
+    "Huddinge",
+    "Botkyrka",
+    "Tumba",
+    "Salem",
+    "Solna",
+    "Sundbyberg",
+    "Nacka",
+    "Haninge",
+    "Tyresö",
+    "Lidingö",
+    "Ekerö",
+    "Nynäshamn",
+    "Gnesta"
+   ]
+  },
+  {
+   "taxa": 400,
+   "cidades": [
+    "Strängnäs",
+    "Mariefred",
+    "Sigtuna",
+    "Märsta",
+    "Upplands Väsby",
+    "Täby",
+    "Enköping",
+    "Nyköping",
+    "Norrtälje"
+   ]
+  },
+  {
+   "taxa": 600,
+   "cidades": [
+    "Uppsala",
+    "Eskilstuna",
+    "Västerås",
+    "Norrköping"
+   ]
+  }
+ ]
+}
