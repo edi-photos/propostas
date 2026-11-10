@@ -1,0 +1,28 @@
+name: Atualizar agenda
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Ler a agenda do Google
+        run: node scripts/atualizar-agenda.js
+        env:
+          AGENDA_ICS_URL: ${{ secrets.AGENDA_ICS_URL }}
+      - name: Salvar se mudou
+        run: |
+          git config user.name "agenda-bot"
+          git config user.email "agenda-bot@users.noreply.github.com"
+          git add ocupados.json
+          git diff --cached --quiet || (git commit -m "Atualiza agenda" && git push)
