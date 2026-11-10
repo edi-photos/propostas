@@ -1,255 +1,258 @@
 {
- "idioma_padrao": "pt",
- "calendario": {
-  "fim": "2026-12-23",
-  "antecedencia_dias": 2
- },
- "tema": {
-  "claro": "--bg:#fbf6f1;--card:#fff;--ink:#35292a;--muted:#7a6764;--accent:#a8372f;--accent2:#f7e4de;--line:#ead8d0",
-  "escuro": "--bg:#1c1716;--card:#291f1e;--ink:#f4e9e4;--muted:#bba8a2;--accent:#ea8576;--accent2:#3d2724;--line:#45332f"
- },
- "pacotes": [
-  {
-   "preco": 800,
-   "a_partir": false
+  "idioma_padrao": "pt",
+  "calendario": {
+    "fim": "2026-12-23",
+    "antecedencia_dias": 2
   },
-  {
-   "preco": 1400,
-   "a_partir": false
+  "tema": {
+    "claro": "--bg:#fbf6f1;--card:#fff;--ink:#35292a;--muted:#7a6764;--accent:#a8372f;--accent2:#f7e4de;--line:#ead8d0",
+    "escuro": "--bg:#1c1716;--card:#291f1e;--ink:#f4e9e4;--muted:#bba8a2;--accent:#ea8576;--accent2:#3d2724;--line:#45332f"
   },
-  {
-   "preco": 1800,
-   "a_partir": false
+  "pacotes": [
+    {
+      "preco": 800,
+      "a_partir": false
+    },
+    {
+      "preco": 1400,
+      "a_partir": false
+    },
+    {
+      "preco": 1800,
+      "a_partir": false
+    }
+  ],
+  "textos": {
+    "pt": {
+      "titulo_aba": "Coleção de Natal — Edilaine de Oliveira",
+      "etiqueta": "COLEÇÃO DE NATAL",
+      "titulo": "Um Natal, muitas memórias. ❤️",
+      "intro": [
+        "O Natal tem uma maneira especial de reunir as pessoas que amamos. São os abraços, os sorrisos, a expectativa das crianças e aqueles pequenos momentos que, ano após ano, se tornam parte da história da família.",
+        "A proposta da Coleção de Natal é transformar essa época tão especial em fotografias naturais, delicadas e cheias de afeto — memórias que vocês poderão revisitar com carinho a cada novo Natal."
+      ],
+      "mensagem": "Olá, Edilaine! Gostaria de agendar o ensaio de Natal.",
+      "nota_local": "O local será combinado previamente. Eventuais custos adicionais de deslocamento ou locação serão informados antes da confirmação do ensaio.",
+      "pacotes": [
+        {
+          "nome": "Pequenos Encantos",
+          "descricao": "Uma experiência breve e delicada para registrar a essência do Natal em família. Ideal para quem deseja guardar esse momento em imagens espontâneas, cheias de carinho e significado.",
+          "inclui": [
+            "Sessão fotográfica de aproximadamente 20–30 minutos",
+            "Até 5 participantes, incluindo crianças",
+            "Um cenário natalino ou local previamente definido",
+            "Orientação durante a sessão para retratos naturais e espontâneos",
+            "Seleção e edição profissional de 20 fotografias",
+            "Entrega digital em alta resolução"
+          ],
+          "subtitulo": "Mini ensaio · 20 fotografias editadas"
+        },
+        {
+          "nome": "Magia em Família",
+          "descricao": "Mais tempo para aproveitar a experiência, explorar diferentes composições e registrar os pequenos detalhes que tornam cada família única. Uma oportunidade de guardar não apenas retratos, mas também as conexões, os sorrisos e os momentos espontâneos que fazem parte da história de vocês.",
+          "inclui": [
+            "Sessão fotográfica de aproximadamente 45–60 minutos",
+            "Até 5 participantes, incluindo crianças",
+            "Um cenário natalino ou local previamente definido",
+            "Maior variedade de poses, retratos individuais e fotografias em família",
+            "Orientação e direção fotográfica durante a sessão",
+            "Seleção e edição profissional de 30 fotografias",
+            "Entrega digital em alta resolução"
+          ],
+          "subtitulo": "Ensaio completo · 30 fotografias editadas"
+        },
+        {
+          "nome": "Natal Sob as Estrelas",
+          "descricao": "Para famílias que desejam celebrar o Natal em meio às paisagens da Suécia, aproveitando o charme da estação, a luz natural e os cenários ao ar livre. Uma experiência pensada para criar fotografias com uma atmosfera especial, combinando a beleza do ambiente com os momentos autênticos entre as pessoas que mais importam.",
+          "inclui": [
+            "Sessão fotográfica externa de aproximadamente 60–90 minutos",
+            "Até 5 participantes, incluindo crianças",
+            "Planejamento prévio do local, considerando o estilo desejado e as condições da estação",
+            "Orientação e direção fotográfica durante a sessão",
+            "Retratos individuais e fotografias em família",
+            "Seleção e edição profissional de 40 fotografias",
+            "Entrega digital em alta resolução"
+          ],
+          "subtitulo": "Experiência externa · 40 fotografias editadas"
+        }
+      ],
+      "entrega_h": "Entrega das fotografias",
+      "entrega": [
+        "Todas as fotografias incluídas nos pacotes passam por um processo cuidadoso de seleção e edição, buscando preservar uma aparência natural, delicada e atemporal.",
+        "As imagens serão entregues digitalmente, em alta resolução, por meio de uma galeria online ou outro meio previamente combinado.",
+        "Os arquivos RAW e as fotografias adicionais não incluídas no pacote não fazem parte da entrega padrão."
+      ],
+      "invest_h": "Disponibilidade, confirmação e pagamento",
+      "invest": [
+        "A data indicada é apenas uma preferência e não representa uma reserva. A disponibilidade será avaliada e confirmada pessoalmente por Edilaine após o contato.",
+        "Após a confirmação da disponibilidade e a aceitação da proposta, 50% do valor total do pacote será pago para confirmar a reserva. Os 50% restantes serão pagos na entrega das fotografias finais.",
+        "O pagamento é realizado diretamente à fotógrafa, via Swish ou dinheiro. Não são realizados pagamentos por este site.",
+        "Pedidos de remarcação ou cancelamento serão tratados com diálogo e bom senso. Sempre que possível, a remarcação será combinada sem custo, conforme a disponibilidade. Em caso de imprevisto no dia, pedimos que entre em contato com Edilaine assim que possível."
+      ],
+      "nome_label": "Seu nome ou da família (para o resumo)",
+      "nome_ph": "Ex.: Família Silva",
+      "fecho": [
+        "Que este Natal se torne uma lembrança para sempre ✨",
+        "Mais do que fotografias natalinas, quero criar memórias de uma fase da vida que passa depressa. Imagens para rever, compartilhar e guardar com carinho, hoje e nos muitos Natais que ainda virão.",
+        "Será um prazer fazer parte dessa história.",
+        "Com carinho,"
+      ],
+      "assinatura": "Edilaine de Oliveira",
+      "funcao": "Fotógrafa"
+    },
+    "sv": {
+      "titulo_aba": "Julkollektion — Edilaine de Oliveira",
+      "etiqueta": "JULKOLLEKTION",
+      "titulo": "En jul, många minnen. ❤️",
+      "intro": [
+        "Julen har ett alldeles särskilt sätt att samla de människor vi älskar. Det är kramarna, leendena, barnens förväntan och de små stunder som år efter år blir en del av familjens historia.",
+        "Tanken med julkollektionen är att förvandla den här speciella tiden till naturliga, varsamma bilder fyllda av värme – minnen som ni kan återvända till med glädje varje ny jul."
+      ],
+      "mensagem": "Hej Edilaine! Jag vill gärna boka en julfotografering.",
+      "nota_local": "Platsen bestäms i förväg. Eventuella extra kostnader för resa eller lokalhyra meddelas innan fotograferingen bekräftas.",
+      "pacotes": [
+        {
+          "nome": "Små förtrollningar",
+          "descricao": "En kort och varsam upplevelse för att fånga julens själ i familjen. Perfekt för dig som vill spara stunden i spontana bilder, fyllda av värme och betydelse.",
+          "inclui": [
+            "Fotosession på cirka 20–30 minuter",
+            "Upp till 5 deltagare, barn inräknade",
+            "En julig miljö eller en i förväg bestämd plats",
+            "Vägledning under sessionen för naturliga och spontana porträtt",
+            "Urval och professionell redigering av 20 bilder",
+            "Digital leverans i hög upplösning"
+          ],
+          "subtitulo": "Minisession · 20 redigerade bilder"
+        },
+        {
+          "nome": "Magi i familjen",
+          "descricao": "Mer tid att njuta av upplevelsen, utforska olika kompositioner och fånga de små detaljer som gör varje familj unik. Ett tillfälle att spara inte bara porträtt, utan också banden, leendena och de spontana stunderna som är en del av er historia.",
+          "inclui": [
+            "Fotosession på cirka 45–60 minuter",
+            "Upp till 5 deltagare, barn inräknade",
+            "En julig miljö eller en i förväg bestämd plats",
+            "Större variation av poser, individuella porträtt och familjebilder",
+            "Vägledning och fotografisk regi under sessionen",
+            "Urval och professionell redigering av 30 bilder",
+            "Digital leverans i hög upplösning"
+          ],
+          "subtitulo": "Hel session · 30 redigerade bilder"
+        },
+        {
+          "nome": "Jul under stjärnorna",
+          "descricao": "För familjer som vill fira jul i det svenska landskapet och ta del av årstidens charm, det naturliga ljuset och miljöerna utomhus. En upplevelse som är tänkt att skapa bilder med en alldeles särskild stämning, där miljöns skönhet möter de äkta ögonblicken mellan de människor som betyder mest.",
+          "inclui": [
+            "Fotosession utomhus på cirka 60–90 minuter",
+            "Upp till 5 deltagare, barn inräknade",
+            "Planering av plats i förväg, med hänsyn till önskad stil och årstidens förhållanden",
+            "Vägledning och fotografisk regi under sessionen",
+            "Individuella porträtt och familjebilder",
+            "Urval och professionell redigering av 40 bilder",
+            "Digital leverans i hög upplösning"
+          ],
+          "subtitulo": "Utomhusupplevelse · 40 redigerade bilder"
+        }
+      ],
+      "entrega_h": "Leverans av bilderna",
+      "entrega": [
+        "Alla bilder som ingår i paketen går igenom en noggrann process av urval och redigering, med målet att bevara ett naturligt, varsamt och tidlöst utseende.",
+        "Bilderna levereras digitalt i hög upplösning via ett onlinegalleri eller på annat i förväg överenskommet sätt.",
+        "RAW-filer och extra bilder som inte ingår i paketet ingår inte i standardleveransen."
+      ],
+      "invest_h": "Tillgänglighet, bekräftelse och betalning",
+      "invest": [
+        "Det datum som anges är endast ett önskemål och innebär inte en bokning. Edilaine kontrollerar tillgängligheten och bekräftar personligen efter kontakt.",
+        "När Edilaine har bekräftat tillgängligheten och kunden har godkänt erbjudandet betalas 50 % av paketets totalpris för att bekräfta bokningen. Resterande 50 % betalas när de färdiga fotografierna levereras.",
+        "Betalning sker direkt till fotografen via Swish eller kontant. Inga betalningar görs via denna webbplats.",
+        "Önskemål om ombokning eller avbokning hanteras med dialog och förståelse. När det är möjligt försöker vi ordna en ny tid utan extra kostnad, beroende på tillgänglighet. Om något oförutsett händer på fotograferingsdagen ber vi dig kontakta Edilaine så snart som möjligt."
+      ],
+      "nome_label": "Ditt namn eller familjens namn (till sammanfattningen)",
+      "nome_ph": "T.ex.: Familjen Silva",
+      "fecho": [
+        "Må den här julen bli ett minne för alltid ✨",
+        "Mer än julbilder vill jag skapa minnen från en period i livet som går fort. Bilder att titta på igen, dela och bevara med värme, idag och under de många jular som ännu ska komma.",
+        "Det blir ett nöje att få vara en del av er historia.",
+        "Med värme,"
+      ],
+      "assinatura": "Edilaine de Oliveira",
+      "funcao": "Fotograf"
+    },
+    "en": {
+      "titulo_aba": "Christmas Collection — Edilaine de Oliveira",
+      "etiqueta": "CHRISTMAS COLLECTION",
+      "titulo": "One Christmas, many memories. ❤️",
+      "intro": [
+        "Christmas has a special way of bringing together the people we love. The hugs, the smiles, the children's excitement and those little moments that, year after year, become part of the family's story.",
+        "The idea behind the Christmas Collection is to turn this special time of year into natural, delicate photographs full of affection — memories you can revisit fondly every new Christmas."
+      ],
+      "mensagem": "Hi Edilaine! I'd like to book a Christmas photoshoot.",
+      "nota_local": "The location will be agreed in advance. Any additional travel or venue costs will be communicated before the session is confirmed.",
+      "pacotes": [
+        {
+          "nome": "Little Charms",
+          "descricao": "A short, gentle experience to capture the essence of Christmas with your family. Ideal for keeping this moment in spontaneous images full of warmth and meaning.",
+          "inclui": [
+            "Photo session of approximately 20–30 minutes",
+            "Up to 5 participants, children included",
+            "A Christmas setting or a location agreed in advance",
+            "Guidance during the session for natural, spontaneous portraits",
+            "Professional selection and editing of 20 photographs",
+            "High-resolution digital delivery"
+          ],
+          "subtitulo": "Mini session · 20 edited photographs"
+        },
+        {
+          "nome": "Family Magic",
+          "descricao": "More time to enjoy the experience, explore different compositions and capture the little details that make every family unique. A chance to keep not only portraits, but also the connections, smiles and spontaneous moments that are part of your story.",
+          "inclui": [
+            "Photo session of approximately 45–60 minutes",
+            "Up to 5 participants, children included",
+            "A Christmas setting or a location agreed in advance",
+            "Greater variety of poses, individual portraits and family photographs",
+            "Guidance and photographic direction during the session",
+            "Professional selection and editing of 30 photographs",
+            "High-resolution digital delivery"
+          ],
+          "subtitulo": "Full session · 30 edited photographs"
+        },
+        {
+          "nome": "Christmas Under the Stars",
+          "descricao": "For families who want to celebrate Christmas amid the landscapes of Sweden, enjoying the charm of the season, the natural light and outdoor settings. An experience designed to create photographs with a special atmosphere, combining the beauty of the surroundings with authentic moments between the people who matter most.",
+          "inclui": [
+            "Outdoor photo session of approximately 60–90 minutes",
+            "Up to 5 participants, children included",
+            "Advance planning of the location, considering the desired style and the conditions of the season",
+            "Guidance and photographic direction during the session",
+            "Individual portraits and family photographs",
+            "Professional selection and editing of 40 photographs",
+            "High-resolution digital delivery"
+          ],
+          "subtitulo": "Outdoor experience · 40 edited photographs"
+        }
+      ],
+      "entrega_h": "Delivery of the photographs",
+      "entrega": [
+        "All photographs included in the packages go through a careful selection and editing process, aiming to preserve a natural, delicate and timeless look.",
+        "The images will be delivered digitally in high resolution through an online gallery or another method agreed in advance.",
+        "RAW files and additional photographs not included in the package are not part of the standard delivery."
+      ],
+      "invest_h": "Availability, confirmation and payment",
+      "invest": [
+        "The date you select is a preference only and does not constitute a booking. Edilaine will personally review availability and confirm it after you get in touch.",
+        "Once Edilaine has confirmed availability and the client has accepted the proposal, 50% of the total package price is payable to confirm the booking. The remaining 50% is due upon delivery of the final photographs.",
+        "Payment is made directly to the photographer via Swish or cash. No payments are processed through this website.",
+        "Rescheduling and cancellation requests will be handled with understanding and open communication. Where possible, we will arrange a new date at no extra cost, subject to availability. If something unexpected happens on the day of the photoshoot, please contact Edilaine as soon as possible."
+      ],
+      "nome_label": "Your name or your family's name (for the summary)",
+      "nome_ph": "E.g.: The Silva family",
+      "fecho": [
+        "May this Christmas become a memory forever ✨",
+        "More than Christmas photographs, I want to create memories of a phase of life that passes quickly. Images to look back on, share and treasure, today and in the many Christmases still to come.",
+        "It will be a pleasure to be part of your story.",
+        "With love,"
+      ],
+      "assinatura": "Edilaine de Oliveira",
+      "funcao": "Photographer"
+    }
   }
- ],
- "textos": {
-  "pt": {
-   "titulo_aba": "Coleção de Natal — Edilaine de Oliveira",
-   "etiqueta": "COLEÇÃO DE NATAL",
-   "titulo": "Um Natal, muitas memórias. ❤️",
-   "intro": [
-    "O Natal tem uma maneira especial de reunir as pessoas que amamos. São os abraços, os sorrisos, a expectativa das crianças e aqueles pequenos momentos que, ano após ano, se tornam parte da história da família.",
-    "A proposta da Coleção de Natal é transformar essa época tão especial em fotografias naturais, delicadas e cheias de afeto — memórias que vocês poderão revisitar com carinho a cada novo Natal."
-   ],
-   "mensagem": "Olá, Edilaine! Gostaria de agendar o ensaio de Natal.",
-   "nota_local": "O local será combinado previamente. Eventuais custos adicionais de deslocamento ou locação serão informados antes da confirmação do ensaio.",
-   "pacotes": [
-    {
-     "nome": "Pequenos Encantos",
-     "descricao": "Uma experiência breve e delicada para registrar a essência do Natal em família. Ideal para quem deseja guardar esse momento em imagens espontâneas, cheias de carinho e significado.",
-     "inclui": [
-      "Sessão fotográfica de aproximadamente 20–30 minutos",
-      "Até 5 participantes, incluindo crianças",
-      "Um cenário natalino ou local previamente definido",
-      "Orientação durante a sessão para retratos naturais e espontâneos",
-      "Seleção e edição profissional de 20 fotografias",
-      "Entrega digital em alta resolução"
-     ],
-     "subtitulo": "Mini ensaio · 20 fotografias editadas"
-    },
-    {
-     "nome": "Magia em Família",
-     "descricao": "Mais tempo para aproveitar a experiência, explorar diferentes composições e registrar os pequenos detalhes que tornam cada família única. Uma oportunidade de guardar não apenas retratos, mas também as conexões, os sorrisos e os momentos espontâneos que fazem parte da história de vocês.",
-     "inclui": [
-      "Sessão fotográfica de aproximadamente 45–60 minutos",
-      "Até 5 participantes, incluindo crianças",
-      "Um cenário natalino ou local previamente definido",
-      "Maior variedade de poses, retratos individuais e fotografias em família",
-      "Orientação e direção fotográfica durante a sessão",
-      "Seleção e edição profissional de 30 fotografias",
-      "Entrega digital em alta resolução"
-     ],
-     "subtitulo": "Ensaio completo · 30 fotografias editadas"
-    },
-    {
-     "nome": "Natal Sob as Estrelas",
-     "descricao": "Para famílias que desejam celebrar o Natal em meio às paisagens da Suécia, aproveitando o charme da estação, a luz natural e os cenários ao ar livre. Uma experiência pensada para criar fotografias com uma atmosfera especial, combinando a beleza do ambiente com os momentos autênticos entre as pessoas que mais importam.",
-     "inclui": [
-      "Sessão fotográfica externa de aproximadamente 60–90 minutos",
-      "Até 5 participantes, incluindo crianças",
-      "Planejamento prévio do local, considerando o estilo desejado e as condições da estação",
-      "Orientação e direção fotográfica durante a sessão",
-      "Retratos individuais e fotografias em família",
-      "Seleção e edição profissional de 40 fotografias",
-      "Entrega digital em alta resolução"
-     ],
-     "subtitulo": "Experiência externa · 40 fotografias editadas"
-    }
-   ],
-   "entrega_h": "Entrega das fotografias",
-   "entrega": [
-    "Todas as fotografias incluídas nos pacotes passam por um processo cuidadoso de seleção e edição, buscando preservar uma aparência natural, delicada e atemporal.",
-    "As imagens serão entregues digitalmente, em alta resolução, por meio de uma galeria online ou outro meio previamente combinado.",
-    "Os arquivos RAW e as fotografias adicionais não incluídas no pacote não fazem parte da entrega padrão."
-   ],
-   "invest_h": "Investimento e agendamento",
-   "invest": [
-    "A sessão será agendada previamente, de acordo com as datas disponíveis.",
-    "Após a escolha do pacote, serão combinados os detalhes do ensaio, incluindo horário, local, cenário e preferências da família.",
-    "O pagamento será realizado no momento da entrega do material final."
-   ],
-   "nome_label": "Seu nome ou da família (para o resumo)",
-   "nome_ph": "Ex.: Família Silva",
-   "fecho": [
-    "Que este Natal se torne uma lembrança para sempre ✨",
-    "Mais do que fotografias natalinas, quero criar memórias de uma fase da vida que passa depressa. Imagens para rever, compartilhar e guardar com carinho, hoje e nos muitos Natais que ainda virão.",
-    "Será um prazer fazer parte dessa história.",
-    "Com carinho,"
-   ],
-   "assinatura": "Edilaine de Oliveira",
-   "funcao": "Fotógrafa"
-  },
-  "sv": {
-   "titulo_aba": "Julkollektion — Edilaine de Oliveira",
-   "etiqueta": "JULKOLLEKTION",
-   "titulo": "En jul, många minnen. ❤️",
-   "intro": [
-    "Julen har ett alldeles särskilt sätt att samla de människor vi älskar. Det är kramarna, leendena, barnens förväntan och de små stunder som år efter år blir en del av familjens historia.",
-    "Tanken med julkollektionen är att förvandla den här speciella tiden till naturliga, varsamma bilder fyllda av värme – minnen som ni kan återvända till med glädje varje ny jul."
-   ],
-   "mensagem": "Hej Edilaine! Jag vill gärna boka en julfotografering.",
-   "nota_local": "Platsen bestäms i förväg. Eventuella extra kostnader för resa eller lokalhyra meddelas innan fotograferingen bekräftas.",
-   "pacotes": [
-    {
-     "nome": "Små förtrollningar",
-     "descricao": "En kort och varsam upplevelse för att fånga julens själ i familjen. Perfekt för dig som vill spara stunden i spontana bilder, fyllda av värme och betydelse.",
-     "inclui": [
-      "Fotosession på cirka 20–30 minuter",
-      "Upp till 5 deltagare, barn inräknade",
-      "En julig miljö eller en i förväg bestämd plats",
-      "Vägledning under sessionen för naturliga och spontana porträtt",
-      "Urval och professionell redigering av 20 bilder",
-      "Digital leverans i hög upplösning"
-     ],
-     "subtitulo": "Minisession · 20 redigerade bilder"
-    },
-    {
-     "nome": "Magi i familjen",
-     "descricao": "Mer tid att njuta av upplevelsen, utforska olika kompositioner och fånga de små detaljer som gör varje familj unik. Ett tillfälle att spara inte bara porträtt, utan också banden, leendena och de spontana stunderna som är en del av er historia.",
-     "inclui": [
-      "Fotosession på cirka 45–60 minuter",
-      "Upp till 5 deltagare, barn inräknade",
-      "En julig miljö eller en i förväg bestämd plats",
-      "Större variation av poser, individuella porträtt och familjebilder",
-      "Vägledning och fotografisk regi under sessionen",
-      "Urval och professionell redigering av 30 bilder",
-      "Digital leverans i hög upplösning"
-     ],
-     "subtitulo": "Hel session · 30 redigerade bilder"
-    },
-    {
-     "nome": "Jul under stjärnorna",
-     "descricao": "För familjer som vill fira jul i det svenska landskapet och ta del av årstidens charm, det naturliga ljuset och miljöerna utomhus. En upplevelse som är tänkt att skapa bilder med en alldeles särskild stämning, där miljöns skönhet möter de äkta ögonblicken mellan de människor som betyder mest.",
-     "inclui": [
-      "Fotosession utomhus på cirka 60–90 minuter",
-      "Upp till 5 deltagare, barn inräknade",
-      "Planering av plats i förväg, med hänsyn till önskad stil och årstidens förhållanden",
-      "Vägledning och fotografisk regi under sessionen",
-      "Individuella porträtt och familjebilder",
-      "Urval och professionell redigering av 40 bilder",
-      "Digital leverans i hög upplösning"
-     ],
-     "subtitulo": "Utomhusupplevelse · 40 redigerade bilder"
-    }
-   ],
-   "entrega_h": "Leverans av bilderna",
-   "entrega": [
-    "Alla bilder som ingår i paketen går igenom en noggrann process av urval och redigering, med målet att bevara ett naturligt, varsamt och tidlöst utseende.",
-    "Bilderna levereras digitalt i hög upplösning via ett onlinegalleri eller på annat i förväg överenskommet sätt.",
-    "RAW-filer och extra bilder som inte ingår i paketet ingår inte i standardleveransen."
-   ],
-   "invest_h": "Pris och bokning",
-   "invest": [
-    "Sessionen bokas i förväg, utifrån lediga datum.",
-    "När ni har valt paket bestämmer vi detaljerna för fotograferingen, bland annat tid, plats, miljö och familjens önskemål.",
-    "Betalning sker när det färdiga materialet levereras."
-   ],
-   "nome_label": "Ditt namn eller familjens namn (till sammanfattningen)",
-   "nome_ph": "T.ex.: Familjen Silva",
-   "fecho": [
-    "Må den här julen bli ett minne för alltid ✨",
-    "Mer än julbilder vill jag skapa minnen från en period i livet som går fort. Bilder att titta på igen, dela och bevara med värme, idag och under de många jular som ännu ska komma.",
-    "Det blir ett nöje att få vara en del av er historia.",
-    "Med värme,"
-   ],
-   "assinatura": "Edilaine de Oliveira",
-   "funcao": "Fotograf"
-  },
-  "en": {
-   "titulo_aba": "Christmas Collection — Edilaine de Oliveira",
-   "etiqueta": "CHRISTMAS COLLECTION",
-   "titulo": "One Christmas, many memories. ❤️",
-   "intro": [
-    "Christmas has a special way of bringing together the people we love. The hugs, the smiles, the children's excitement and those little moments that, year after year, become part of the family's story.",
-    "The idea behind the Christmas Collection is to turn this special time of year into natural, delicate photographs full of affection — memories you can revisit fondly every new Christmas."
-   ],
-   "mensagem": "Hi Edilaine! I'd like to book a Christmas photoshoot.",
-   "nota_local": "The location will be agreed in advance. Any additional travel or venue costs will be communicated before the session is confirmed.",
-   "pacotes": [
-    {
-     "nome": "Little Charms",
-     "descricao": "A short, gentle experience to capture the essence of Christmas with your family. Ideal for keeping this moment in spontaneous images full of warmth and meaning.",
-     "inclui": [
-      "Photo session of approximately 20–30 minutes",
-      "Up to 5 participants, children included",
-      "A Christmas setting or a location agreed in advance",
-      "Guidance during the session for natural, spontaneous portraits",
-      "Professional selection and editing of 20 photographs",
-      "High-resolution digital delivery"
-     ],
-     "subtitulo": "Mini session · 20 edited photographs"
-    },
-    {
-     "nome": "Family Magic",
-     "descricao": "More time to enjoy the experience, explore different compositions and capture the little details that make every family unique. A chance to keep not only portraits, but also the connections, smiles and spontaneous moments that are part of your story.",
-     "inclui": [
-      "Photo session of approximately 45–60 minutes",
-      "Up to 5 participants, children included",
-      "A Christmas setting or a location agreed in advance",
-      "Greater variety of poses, individual portraits and family photographs",
-      "Guidance and photographic direction during the session",
-      "Professional selection and editing of 30 photographs",
-      "High-resolution digital delivery"
-     ],
-     "subtitulo": "Full session · 30 edited photographs"
-    },
-    {
-     "nome": "Christmas Under the Stars",
-     "descricao": "For families who want to celebrate Christmas amid the landscapes of Sweden, enjoying the charm of the season, the natural light and outdoor settings. An experience designed to create photographs with a special atmosphere, combining the beauty of the surroundings with authentic moments between the people who matter most.",
-     "inclui": [
-      "Outdoor photo session of approximately 60–90 minutes",
-      "Up to 5 participants, children included",
-      "Advance planning of the location, considering the desired style and the conditions of the season",
-      "Guidance and photographic direction during the session",
-      "Individual portraits and family photographs",
-      "Professional selection and editing of 40 photographs",
-      "High-resolution digital delivery"
-     ],
-     "subtitulo": "Outdoor experience · 40 edited photographs"
-    }
-   ],
-   "entrega_h": "Delivery of the photographs",
-   "entrega": [
-    "All photographs included in the packages go through a careful selection and editing process, aiming to preserve a natural, delicate and timeless look.",
-    "The images will be delivered digitally in high resolution through an online gallery or another method agreed in advance.",
-    "RAW files and additional photographs not included in the package are not part of the standard delivery."
-   ],
-   "invest_h": "Investment and booking",
-   "invest": [
-    "The session will be scheduled in advance, according to available dates.",
-    "Once you choose a package, we will agree on the details of the session, including time, location, setting and your family's preferences.",
-    "Payment is made upon delivery of the final material."
-   ],
-   "nome_label": "Your name or your family's name (for the summary)",
-   "nome_ph": "E.g.: The Silva family",
-   "fecho": [
-    "May this Christmas become a memory forever ✨",
-    "More than Christmas photographs, I want to create memories of a phase of life that passes quickly. Images to look back on, share and treasure, today and in the many Christmases still to come.",
-    "It will be a pleasure to be part of your story.",
-    "With love,"
-   ],
-   "assinatura": "Edilaine de Oliveira",
-   "funcao": "Photographer"
-  }
- }
 }

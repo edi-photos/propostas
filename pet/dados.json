@@ -1,210 +1,219 @@
 {
- "idioma_padrao": "pt",
- "calendario": {
-  "fim": "2027-05-31",
-  "antecedencia_dias": 2
- },
- "tema": {
-  "claro": "--bg:#faf5ef;--card:#fff;--ink:#3b2f2a;--muted:#7a6a60;--accent:#c4793f;--accent2:#f3e1cf;--line:#e8d9c8",
-  "escuro": "--bg:#1e1814;--card:#2a221d;--ink:#f3e9df;--muted:#b9a899;--accent:#e49a5e;--accent2:#3d2e22;--line:#43372e"
- },
- "pacotes": [
-  {
-   "preco": 800,
-   "a_partir": false
+  "idioma_padrao": "pt",
+  "calendario": {
+    "fim": "2027-05-31",
+    "antecedencia_dias": 2
   },
-  {
-   "preco": 1400,
-   "a_partir": false
+  "tema": {
+    "claro": "--bg:#faf5ef;--card:#fff;--ink:#3b2f2a;--muted:#7a6a60;--accent:#c4793f;--accent2:#f3e1cf;--line:#e8d9c8",
+    "escuro": "--bg:#1e1814;--card:#2a221d;--ink:#f3e9df;--muted:#b9a899;--accent:#e49a5e;--accent2:#3d2e22;--line:#43372e"
   },
-  {
-   "preco": 1800,
-   "a_partir": false
+  "pacotes": [
+    {
+      "preco": 800,
+      "a_partir": false
+    },
+    {
+      "preco": 1400,
+      "a_partir": false
+    },
+    {
+      "preco": 1800,
+      "a_partir": false
+    }
+  ],
+  "textos": {
+    "pt": {
+      "titulo_aba": "Ensaio Pet — Edilaine Oliveira",
+      "etiqueta": "ENSAIO PET",
+      "titulo": "Uma história de amor que também tem quatro patas 🐾",
+      "intro": [
+        "Eles fazem parte da nossa rotina, dos nossos momentos felizes e da nossa família. A proposta é registrar essa personalidade e o vínculo especial que vocês compartilham, criando fotografias que preservem essas memórias por muitos anos."
+      ],
+      "mensagem": "Olá, Edilaine! Gostaria de agendar um ensaio pet.",
+      "nota_local": "",
+      "pacotes": [
+        {
+          "nome": "Focinho Gelado",
+          "descricao": "Uma experiência breve e delicada, ideal para registrar a personalidade do seu pet e os pequenos detalhes que o tornam único.",
+          "inclui": [
+            "Sessão de aproximadamente 20–30 minutos",
+            "Um pet e seus tutores, conforme combinado",
+            "Orientação respeitando o ritmo e o conforto do animal",
+            "Seleção e edição profissional de 20 fotografias",
+            "Entrega digital em alta resolução"
+          ]
+        },
+        {
+          "nome": "Patas e Olhares",
+          "descricao": "Uma experiência mais completa, com tempo para explorar expressões, brincadeiras, retratos e momentos espontâneos entre o pet e sua família.",
+          "inclui": [
+            "Sessão de aproximadamente 45–60 minutos",
+            "Fotografias individuais do pet e com os tutores",
+            "Maior variedade de poses, interações e composições",
+            "Seleção e edição profissional de 30 fotografias",
+            "Entrega digital em alta resolução"
+          ]
+        },
+        {
+          "nome": "Amor de Quatro Patas",
+          "descricao": "Para quem deseja registrar seu companheiro em meio à natureza, com uma atmosfera ainda mais especial.",
+          "inclui": [
+            "Sessão externa de aproximadamente 60–90 minutos",
+            "Planejamento do local e orientação durante o ensaio",
+            "Fotografias individuais do pet e com os tutores",
+            "Seleção e edição profissional de 40 fotografias",
+            "Entrega digital em alta resolução"
+          ]
+        }
+      ],
+      "entrega_h": "Entrega das fotografias",
+      "entrega": [
+        "As imagens são entregues digitalmente, em alta resolução, por meio de uma galeria online ou outro meio combinado. Todas as fotografias incluídas passam por seleção e edição profissional. Arquivos RAW e fotografias adicionais não fazem parte da entrega padrão."
+      ],
+      "invest_h": "Disponibilidade, confirmação e pagamento",
+      "invest": [
+        "A data indicada é apenas uma preferência e não representa uma reserva. A disponibilidade será avaliada e confirmada pessoalmente por Edilaine após o contato.",
+        "Após a confirmação da disponibilidade e a aceitação da proposta, 50% do valor total do pacote será pago para confirmar a reserva. Os 50% restantes serão pagos na entrega das fotografias finais.",
+        "O pagamento é realizado diretamente à fotógrafa, via Swish ou dinheiro. Não são realizados pagamentos por este site.",
+        "Pedidos de remarcação ou cancelamento serão tratados com diálogo e bom senso. Sempre que possível, a remarcação será combinada sem custo, conforme a disponibilidade. Em caso de imprevisto no dia, pedimos que entre em contato com Edilaine assim que possível."
+      ],
+      "nome_label": "Seu nome e o do pet (para o resumo)",
+      "nome_ph": "Ex.: Ana e Thor",
+      "fecho": [
+        "Uma memória para chamar de sua 🤍",
+        "Cada pet tem sua própria personalidade e uma maneira única de fazer parte da nossa vida. Será um prazer transformar essa conexão em fotografias que vocês poderão guardar para sempre."
+      ],
+      "assinatura": "Edilaine Oliveira",
+      "funcao": "Fotógrafa"
+    },
+    "sv": {
+      "titulo_aba": "Husdjursfotografering — Edilaine Oliveira",
+      "etiqueta": "HUSDJURSFOTOGRAFERING",
+      "titulo": "En kärlekshistoria med fyra tassar 🐾",
+      "intro": [
+        "De är en del av vår vardag, våra lyckliga stunder och vår familj. Idén är att fånga djurets personlighet och det speciella band ni delar, och skapa bilder som bevarar de här minnena i många år."
+      ],
+      "mensagem": "Hej Edilaine! Jag vill gärna boka en husdjursfotografering.",
+      "nota_local": "",
+      "pacotes": [
+        {
+          "nome": "Kall nos",
+          "descricao": "En kort och varsam upplevelse, perfekt för att fånga ditt djurs personlighet och de små detaljer som gör det unikt.",
+          "inclui": [
+            "Fotosession på cirka 20–30 minuter",
+            "Ett husdjur och dess ägare, enligt överenskommelse",
+            "Vägledning som respekterar djurets tempo och välbefinnande",
+            "Urval och professionell redigering av 20 bilder",
+            "Digital leverans i hög upplösning"
+          ]
+        },
+        {
+          "nome": "Tassar och blickar",
+          "descricao": "En mer komplett upplevelse, med tid att utforska uttryck, lek, porträtt och spontana ögonblick mellan husdjuret och familjen.",
+          "inclui": [
+            "Fotosession på cirka 45–60 minuter",
+            "Individuella bilder på djuret och tillsammans med ägarna",
+            "Större variation av poser, samspel och kompositioner",
+            "Urval och professionell redigering av 30 bilder",
+            "Digital leverans i hög upplösning"
+          ]
+        },
+        {
+          "nome": "Fyrfotad kärlek",
+          "descricao": "För dig som vill föreviga din följeslagare ute i naturen, med en ännu mer speciell stämning.",
+          "inclui": [
+            "Fotosession utomhus på cirka 60–90 minuter",
+            "Planering av plats och vägledning under fotograferingen",
+            "Individuella bilder på djuret och tillsammans med ägarna",
+            "Urval och professionell redigering av 40 bilder",
+            "Digital leverans i hög upplösning"
+          ]
+        }
+      ],
+      "entrega_h": "Leverans av bilderna",
+      "entrega": [
+        "Bilderna levereras digitalt i hög upplösning via ett onlinegalleri eller på annat överenskommet sätt. Alla bilder som ingår har valts ut och redigerats professionellt. RAW-filer och extra bilder ingår inte i standardleveransen."
+      ],
+      "invest_h": "Tillgänglighet, bekräftelse och betalning",
+      "invest": [
+        "Det datum som anges är endast ett önskemål och innebär inte en bokning. Edilaine kontrollerar tillgängligheten och bekräftar personligen efter kontakt.",
+        "När Edilaine har bekräftat tillgängligheten och kunden har godkänt erbjudandet betalas 50 % av paketets totalpris för att bekräfta bokningen. Resterande 50 % betalas när de färdiga fotografierna levereras.",
+        "Betalning sker direkt till fotografen via Swish eller kontant. Inga betalningar görs via denna webbplats.",
+        "Önskemål om ombokning eller avbokning hanteras med dialog och förståelse. När det är möjligt försöker vi ordna en ny tid utan extra kostnad, beroende på tillgänglighet. Om något oförutsett händer på fotograferingsdagen ber vi dig kontakta Edilaine så snart som möjligt."
+      ],
+      "nome_label": "Ditt namn och djurets namn (till sammanfattningen)",
+      "nome_ph": "T.ex.: Anna och Thor",
+      "fecho": [
+        "Ett minne att kalla ditt 🤍",
+        "Varje husdjur har sin egen personlighet och sitt alldeles egna sätt att vara en del av våra liv. Det blir en glädje att förvandla den kopplingen till bilder som ni kan spara för alltid."
+      ],
+      "assinatura": "Edilaine Oliveira",
+      "funcao": "Fotograf"
+    },
+    "en": {
+      "titulo_aba": "Pet Photoshoot — Edilaine Oliveira",
+      "etiqueta": "PET PHOTOSHOOT",
+      "titulo": "A love story that also has four paws 🐾",
+      "intro": [
+        "They are part of our routine, our happy moments and our family. The idea is to capture that personality and the special bond you share, creating photographs that preserve these memories for many years."
+      ],
+      "mensagem": "Hi Edilaine! I'd like to book a pet photoshoot.",
+      "nota_local": "",
+      "pacotes": [
+        {
+          "nome": "Cold Nose",
+          "descricao": "A short, gentle experience, ideal for capturing your pet's personality and the little details that make them unique.",
+          "inclui": [
+            "Photo session of approximately 20–30 minutes",
+            "One pet and their owners, as agreed beforehand",
+            "Guidance that respects the animal's pace and comfort",
+            "Professional selection and editing of 20 photographs",
+            "High-resolution digital delivery"
+          ]
+        },
+        {
+          "nome": "Paws and Glances",
+          "descricao": "A more complete experience, with time to explore expressions, play, portraits and spontaneous moments between your pet and your family.",
+          "inclui": [
+            "Photo session of approximately 45–60 minutes",
+            "Individual photos of the pet and together with their owners",
+            "Greater variety of poses, interactions and compositions",
+            "Professional selection and editing of 30 photographs",
+            "High-resolution digital delivery"
+          ]
+        },
+        {
+          "nome": "Four-Paw Love",
+          "descricao": "For those who want to capture their companion out in nature, with an even more special atmosphere.",
+          "inclui": [
+            "Outdoor session of approximately 60–90 minutes",
+            "Location planning and guidance during the shoot",
+            "Individual photos of the pet and together with their owners",
+            "Professional selection and editing of 40 photographs",
+            "High-resolution digital delivery"
+          ]
+        }
+      ],
+      "entrega_h": "Delivery of the photographs",
+      "entrega": [
+        "The images are delivered digitally in high resolution through an online gallery or another agreed method. All included photographs are professionally selected and edited. RAW files and additional photographs are not part of the standard delivery."
+      ],
+      "invest_h": "Availability, confirmation and payment",
+      "invest": [
+        "The date you select is a preference only and does not constitute a booking. Edilaine will personally review availability and confirm it after you get in touch.",
+        "Once Edilaine has confirmed availability and the client has accepted the proposal, 50% of the total package price is payable to confirm the booking. The remaining 50% is due upon delivery of the final photographs.",
+        "Payment is made directly to the photographer via Swish or cash. No payments are processed through this website.",
+        "Rescheduling and cancellation requests will be handled with understanding and open communication. Where possible, we will arrange a new date at no extra cost, subject to availability. If something unexpected happens on the day of the photoshoot, please contact Edilaine as soon as possible."
+      ],
+      "nome_label": "Your name and your pet's name (for the summary)",
+      "nome_ph": "E.g.: Anna and Thor",
+      "fecho": [
+        "A memory to call your own 🤍",
+        "Every pet has its own personality and a unique way of being part of our lives. It will be a pleasure to turn that connection into photographs you can keep forever."
+      ],
+      "assinatura": "Edilaine Oliveira",
+      "funcao": "Photographer"
+    }
   }
- ],
- "textos": {
-  "pt": {
-   "titulo_aba": "Ensaio Pet — Edilaine Oliveira",
-   "etiqueta": "ENSAIO PET",
-   "titulo": "Uma história de amor que também tem quatro patas 🐾",
-   "intro": [
-    "Eles fazem parte da nossa rotina, dos nossos momentos felizes e da nossa família. A proposta é registrar essa personalidade e o vínculo especial que vocês compartilham, criando fotografias que preservem essas memórias por muitos anos."
-   ],
-   "mensagem": "Olá, Edilaine! Gostaria de agendar um ensaio pet.",
-   "nota_local": "",
-   "pacotes": [
-    {
-     "nome": "Focinho Gelado",
-     "descricao": "Uma experiência breve e delicada, ideal para registrar a personalidade do seu pet e os pequenos detalhes que o tornam único.",
-     "inclui": [
-      "Sessão de aproximadamente 20–30 minutos",
-      "Um pet e seus tutores, conforme combinado",
-      "Orientação respeitando o ritmo e o conforto do animal",
-      "Seleção e edição profissional de 20 fotografias",
-      "Entrega digital em alta resolução"
-     ]
-    },
-    {
-     "nome": "Patas e Olhares",
-     "descricao": "Uma experiência mais completa, com tempo para explorar expressões, brincadeiras, retratos e momentos espontâneos entre o pet e sua família.",
-     "inclui": [
-      "Sessão de aproximadamente 45–60 minutos",
-      "Fotografias individuais do pet e com os tutores",
-      "Maior variedade de poses, interações e composições",
-      "Seleção e edição profissional de 30 fotografias",
-      "Entrega digital em alta resolução"
-     ]
-    },
-    {
-     "nome": "Amor de Quatro Patas",
-     "descricao": "Para quem deseja registrar seu companheiro em meio à natureza, com uma atmosfera ainda mais especial.",
-     "inclui": [
-      "Sessão externa de aproximadamente 60–90 minutos",
-      "Planejamento do local e orientação durante o ensaio",
-      "Fotografias individuais do pet e com os tutores",
-      "Seleção e edição profissional de 40 fotografias",
-      "Entrega digital em alta resolução"
-     ]
-    }
-   ],
-   "entrega_h": "Entrega das fotografias",
-   "entrega": [
-    "As imagens são entregues digitalmente, em alta resolução, por meio de uma galeria online ou outro meio combinado. Todas as fotografias incluídas passam por seleção e edição profissional. Arquivos RAW e fotografias adicionais não fazem parte da entrega padrão."
-   ],
-   "invest_h": "Investimento e agendamento",
-   "invest": [
-    "A data e o local serão combinados previamente. O pagamento é realizado no momento da entrega do material final."
-   ],
-   "nome_label": "Seu nome e o do pet (para o resumo)",
-   "nome_ph": "Ex.: Ana e Thor",
-   "fecho": [
-    "Uma memória para chamar de sua 🤍",
-    "Cada pet tem sua própria personalidade e uma maneira única de fazer parte da nossa vida. Será um prazer transformar essa conexão em fotografias que vocês poderão guardar para sempre."
-   ],
-   "assinatura": "Edilaine Oliveira",
-   "funcao": "Fotógrafa"
-  },
-  "sv": {
-   "titulo_aba": "Husdjursfotografering — Edilaine Oliveira",
-   "etiqueta": "HUSDJURSFOTOGRAFERING",
-   "titulo": "En kärlekshistoria med fyra tassar 🐾",
-   "intro": [
-    "De är en del av vår vardag, våra lyckliga stunder och vår familj. Idén är att fånga djurets personlighet och det speciella band ni delar, och skapa bilder som bevarar de här minnena i många år."
-   ],
-   "mensagem": "Hej Edilaine! Jag vill gärna boka en husdjursfotografering.",
-   "nota_local": "",
-   "pacotes": [
-    {
-     "nome": "Kall nos",
-     "descricao": "En kort och varsam upplevelse, perfekt för att fånga ditt djurs personlighet och de små detaljer som gör det unikt.",
-     "inclui": [
-      "Fotosession på cirka 20–30 minuter",
-      "Ett husdjur och dess ägare, enligt överenskommelse",
-      "Vägledning som respekterar djurets tempo och välbefinnande",
-      "Urval och professionell redigering av 20 bilder",
-      "Digital leverans i hög upplösning"
-     ]
-    },
-    {
-     "nome": "Tassar och blickar",
-     "descricao": "En mer komplett upplevelse, med tid att utforska uttryck, lek, porträtt och spontana ögonblick mellan husdjuret och familjen.",
-     "inclui": [
-      "Fotosession på cirka 45–60 minuter",
-      "Individuella bilder på djuret och tillsammans med ägarna",
-      "Större variation av poser, samspel och kompositioner",
-      "Urval och professionell redigering av 30 bilder",
-      "Digital leverans i hög upplösning"
-     ]
-    },
-    {
-     "nome": "Fyrfotad kärlek",
-     "descricao": "För dig som vill föreviga din följeslagare ute i naturen, med en ännu mer speciell stämning.",
-     "inclui": [
-      "Fotosession utomhus på cirka 60–90 minuter",
-      "Planering av plats och vägledning under fotograferingen",
-      "Individuella bilder på djuret och tillsammans med ägarna",
-      "Urval och professionell redigering av 40 bilder",
-      "Digital leverans i hög upplösning"
-     ]
-    }
-   ],
-   "entrega_h": "Leverans av bilderna",
-   "entrega": [
-    "Bilderna levereras digitalt i hög upplösning via ett onlinegalleri eller på annat överenskommet sätt. Alla bilder som ingår har valts ut och redigerats professionellt. RAW-filer och extra bilder ingår inte i standardleveransen."
-   ],
-   "invest_h": "Pris och bokning",
-   "invest": [
-    "Datum och plats bestäms i förväg. Betalning sker när det färdiga materialet levereras."
-   ],
-   "nome_label": "Ditt namn och djurets namn (till sammanfattningen)",
-   "nome_ph": "T.ex.: Anna och Thor",
-   "fecho": [
-    "Ett minne att kalla ditt 🤍",
-    "Varje husdjur har sin egen personlighet och sitt alldeles egna sätt att vara en del av våra liv. Det blir en glädje att förvandla den kopplingen till bilder som ni kan spara för alltid."
-   ],
-   "assinatura": "Edilaine Oliveira",
-   "funcao": "Fotograf"
-  },
-  "en": {
-   "titulo_aba": "Pet Photoshoot — Edilaine Oliveira",
-   "etiqueta": "PET PHOTOSHOOT",
-   "titulo": "A love story that also has four paws 🐾",
-   "intro": [
-    "They are part of our routine, our happy moments and our family. The idea is to capture that personality and the special bond you share, creating photographs that preserve these memories for many years."
-   ],
-   "mensagem": "Hi Edilaine! I'd like to book a pet photoshoot.",
-   "nota_local": "",
-   "pacotes": [
-    {
-     "nome": "Cold Nose",
-     "descricao": "A short, gentle experience, ideal for capturing your pet's personality and the little details that make them unique.",
-     "inclui": [
-      "Photo session of approximately 20–30 minutes",
-      "One pet and their owners, as agreed beforehand",
-      "Guidance that respects the animal's pace and comfort",
-      "Professional selection and editing of 20 photographs",
-      "High-resolution digital delivery"
-     ]
-    },
-    {
-     "nome": "Paws and Glances",
-     "descricao": "A more complete experience, with time to explore expressions, play, portraits and spontaneous moments between your pet and your family.",
-     "inclui": [
-      "Photo session of approximately 45–60 minutes",
-      "Individual photos of the pet and together with their owners",
-      "Greater variety of poses, interactions and compositions",
-      "Professional selection and editing of 30 photographs",
-      "High-resolution digital delivery"
-     ]
-    },
-    {
-     "nome": "Four-Paw Love",
-     "descricao": "For those who want to capture their companion out in nature, with an even more special atmosphere.",
-     "inclui": [
-      "Outdoor session of approximately 60–90 minutes",
-      "Location planning and guidance during the shoot",
-      "Individual photos of the pet and together with their owners",
-      "Professional selection and editing of 40 photographs",
-      "High-resolution digital delivery"
-     ]
-    }
-   ],
-   "entrega_h": "Delivery of the photographs",
-   "entrega": [
-    "The images are delivered digitally in high resolution through an online gallery or another agreed method. All included photographs are professionally selected and edited. RAW files and additional photographs are not part of the standard delivery."
-   ],
-   "invest_h": "Investment and booking",
-   "invest": [
-    "The date and location are agreed in advance. Payment is made upon delivery of the final material."
-   ],
-   "nome_label": "Your name and your pet's name (for the summary)",
-   "nome_ph": "E.g.: Anna and Thor",
-   "fecho": [
-    "A memory to call your own 🤍",
-    "Every pet has its own personality and a unique way of being part of our lives. It will be a pleasure to turn that connection into photographs you can keep forever."
-   ],
-   "assinatura": "Edilaine Oliveira",
-   "funcao": "Photographer"
-  }
- }
 }
