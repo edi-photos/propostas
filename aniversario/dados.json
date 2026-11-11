@@ -1,0 +1,219 @@
+{
+  "idioma_padrao": "pt",
+  "calendario": {
+    "fim": "2027-05-31",
+    "antecedencia_dias": 2
+  },
+  "tema": {
+    "claro": "--bg:#faf5f1;--card:#fff;--ink:#3b2d2a;--muted:#7a6964;--accent:#b56d5b;--accent2:#f1e0db;--line:#e8d5cf",
+    "escuro": "--bg:#1e1716;--card:#2a201e;--ink:#f3e8e4;--muted:#bba7a1;--accent:#d58b79;--accent2:#3b2925;--line:#45332f"
+  },
+  "pacotes": [
+    {
+      "preco": 800,
+      "a_partir": false
+    },
+    {
+      "preco": 1400,
+      "a_partir": false
+    },
+    {
+      "preco": 1800,
+      "a_partir": false
+    }
+  ],
+  "textos": {
+    "pt": {
+      "titulo_aba": "Fotografia de Aniversário — Edilaine Oliveira",
+      "etiqueta": "FOTOGRAFIA DE ANIVERSÁRIO",
+      "titulo": "Uma celebração, muitas histórias. 🎂",
+      "intro": [
+        "Cada aniversário reúne pessoas, afetos e momentos que merecem ser lembrados. A proposta é registrar a atmosfera da comemoração de forma espontânea: os detalhes, os convidados, os abraços, as brincadeiras e os momentos especiais ao longo da festa."
+      ],
+      "mensagem": "Olá, Edilaine! Gostaria de consultar a disponibilidade para fotografar um aniversário.",
+      "nota_local": "A cobertura será realizada no local da comemoração, previamente combinado. Eventuais custos adicionais de deslocamento ou locação serão informados antes da confirmação.",
+      "pacotes": [
+        {
+          "nome": "Pequenos Instantes",
+          "descricao": "Uma cobertura breve para registrar os detalhes e os momentos essenciais da comemoração.",
+          "inclui": [
+            "Cobertura fotográfica de aproximadamente 30 minutos",
+            "Registro dos detalhes, retratos e momentos espontâneos durante a cobertura",
+            "Seleção e edição profissional de 20 fotografias",
+            "Entrega digital em alta resolução"
+          ]
+        },
+        {
+          "nome": "Histórias que Ficam",
+          "descricao": "Mais tempo para acompanhar a comemoração e registrar diferentes momentos, convidados e interações com tranquilidade.",
+          "inclui": [
+            "Cobertura fotográfica de aproximadamente 45–60 minutos",
+            "Registro da decoração, convidados, homenageado e momentos da celebração",
+            "Fotografias espontâneas e retratos de família",
+            "Seleção e edição profissional de 30 fotografias",
+            "Entrega digital em alta resolução"
+          ]
+        },
+        {
+          "nome": "Memórias Especiais",
+          "descricao": "Uma cobertura mais completa, com tempo ampliado para contar a história da celebração e registrar uma variedade maior de momentos.",
+          "inclui": [
+            "Cobertura fotográfica de aproximadamente 60–90 minutos",
+            "Registro dos detalhes, convidados, homenageado e principais momentos combinados",
+            "Fotografias espontâneas, retratos e interações durante a festa",
+            "Seleção e edição profissional de 40 fotografias",
+            "Entrega digital em alta resolução"
+          ]
+        }
+      ],
+      "entrega_h": "Entrega das fotografias",
+      "entrega": [
+        "As imagens são entregues digitalmente, em alta resolução, por meio de uma galeria online ou outro meio combinado. Todas as fotografias incluídas passam por seleção e edição profissional. Arquivos RAW e fotografias adicionais não fazem parte da entrega padrão.",
+        "A cobertura registra os momentos que acontecem durante o período contratado. A realização de momentos específicos, como parabéns ou abertura dos presentes, deve ser combinada previamente e depende do horário da cobertura."
+      ],
+      "invest_h": "Disponibilidade, confirmação e pagamento",
+      "invest": [
+        "A data indicada é apenas uma preferência e não representa uma reserva. A disponibilidade será avaliada e confirmada pessoalmente por Edilaine após o contato.",
+        "Após a confirmação da disponibilidade e a aceitação da proposta, 50% do valor total do pacote será pago para confirmar a reserva. Os 50% restantes serão pagos na entrega das fotografias finais.",
+        "O pagamento é realizado diretamente à fotógrafa, via Swish ou dinheiro. Não são realizados pagamentos por este site.",
+        "Pedidos de remarcação ou cancelamento serão tratados com diálogo e bom senso. Sempre que possível, a remarcação será combinada sem custo, conforme a disponibilidade. Em caso de imprevisto no dia, pedimos que entre em contato com Edilaine assim que possível."
+      ],
+      "nome_label": "Seu nome e o nome do aniversariante (para o resumo)",
+      "nome_ph": "Ex.: Ana — aniversário do Lucas",
+      "fecho": [
+        "Uma festa passa. As lembranças ficam. 🤍",
+        "Será um prazer registrar os momentos que tornam essa celebração especial para vocês."
+      ],
+      "assinatura": "Edilaine Oliveira",
+      "funcao": "Fotógrafa"
+    },
+    "sv": {
+      "titulo_aba": "Födelsedagsfotografering — Edilaine Oliveira",
+      "etiqueta": "FÖDELSEDAGSFOTOGRAFERING",
+      "titulo": "Ett firande, många berättelser. 🎂",
+      "intro": [
+        "Varje födelsedag samlar människor, värme och ögonblick som är värda att minnas. Tanken är att dokumentera firandets stämning på ett naturligt sätt: detaljerna, gästerna, kramarna, lekarna och de speciella stunderna under festen."
+      ],
+      "mensagem": "Hej Edilaine! Jag vill gärna fråga om tillgänglighet för fotografering av ett födelsedagsfirande.",
+      "nota_local": "Fotograferingen sker på den i förväg överenskomna festplatsen. Eventuella extra kostnader för resa eller lokal meddelas innan bokningen bekräftas.",
+      "pacotes": [
+        {
+          "nome": "Små ögonblick",
+          "descricao": "En kort fotografering för att fånga detaljerna och de viktigaste ögonblicken under firandet.",
+          "inclui": [
+            "Fotografering i cirka 30 minuter",
+            "Bilder av detaljer, porträtt och spontana ögonblick under den bokade tiden",
+            "Urval och professionell redigering av 20 bilder",
+            "Digital leverans i hög upplösning"
+          ]
+        },
+        {
+          "nome": "Berättelser att bevara",
+          "descricao": "Mer tid att följa firandet och i lugn och ro fotografera olika stunder, gäster och möten.",
+          "inclui": [
+            "Fotografering i cirka 45–60 minuter",
+            "Bilder av dekorationer, gäster, födelsedagsbarnet och firandets ögonblick",
+            "Spontana bilder och familjeporträtt",
+            "Urval och professionell redigering av 30 bilder",
+            "Digital leverans i hög upplösning"
+          ]
+        },
+        {
+          "nome": "Särskilda minnen",
+          "descricao": "En mer omfattande fotografering med extra tid för att berätta firandets historia och fånga fler olika ögonblick.",
+          "inclui": [
+            "Fotografering i cirka 60–90 minuter",
+            "Bilder av detaljer, gäster, födelsedagsbarnet och överenskomna höjdpunkter",
+            "Spontana bilder, porträtt och samspel under festen",
+            "Urval och professionell redigering av 40 bilder",
+            "Digital leverans i hög upplösning"
+          ]
+        }
+      ],
+      "entrega_h": "Leverans av bilderna",
+      "entrega": [
+        "Bilderna levereras digitalt i hög upplösning via ett onlinegalleri eller på annat överenskommet sätt. Alla bilder som ingår väljs ut och redigeras professionellt. RAW-filer och extra bilder ingår inte i standardleveransen.",
+        "Fotograferingen omfattar de ögonblick som inträffar under den bokade tiden. Särskilda moment, som födelsedagssång eller presentöppning, bör planeras i förväg och är beroende av fotograferingens tider."
+      ],
+      "invest_h": "Tillgänglighet, bokningsbekräftelse och betalning",
+      "invest": [
+        "Det önskade datumet är endast ett önskemål och innebär inte en bokning. Edilaine kontrollerar tillgängligheten och bekräftar personligen efter kontakt.",
+        "När tillgängligheten har bekräftats och erbjudandet accepterats betalas 50 % av paketets totalpris för att bekräfta bokningen. Resterande 50 % betalas när de färdiga bilderna levereras.",
+        "Betalningen görs direkt till fotografen via Swish eller kontant. Betalning sker inte via denna webbplats.",
+        "Önskemål om ombokning eller avbokning hanteras med dialog och förståelse. När det är möjligt försöker vi ordna en kostnadsfri ombokning utifrån tillgänglighet. Om något oförutsett inträffar på fotograferingsdagen ber vi dig kontakta Edilaine så snart som möjligt."
+      ],
+      "nome_label": "Ditt namn och födelsedagsbarnets namn (för sammanfattningen)",
+      "nome_ph": "T.ex. Anna — Lucas födelsedag",
+      "fecho": [
+        "En fest går över. Minnena finns kvar. 🤍",
+        "Det blir ett nöje att dokumentera ögonblicken som gör ert firande speciellt."
+      ],
+      "assinatura": "Edilaine Oliveira",
+      "funcao": "Fotograf"
+    },
+    "en": {
+      "titulo_aba": "Birthday Photography — Edilaine Oliveira",
+      "etiqueta": "BIRTHDAY PHOTOGRAPHY",
+      "titulo": "One celebration, many stories. 🎂",
+      "intro": [
+        "Every birthday brings together people, affection and moments worth remembering. The idea is to capture the atmosphere naturally: the details, guests, hugs, games and special moments throughout the celebration."
+      ],
+      "mensagem": "Hello, Edilaine! I’d like to ask about availability for birthday photography.",
+      "nota_local": "Coverage takes place at the celebration venue agreed in advance. Any additional travel or venue costs will be communicated before the booking is confirmed.",
+      "pacotes": [
+        {
+          "nome": "Little Moments",
+          "descricao": "A short coverage session to capture the details and essential moments of the celebration.",
+          "inclui": [
+            "Approximately 30 minutes of photography coverage",
+            "Details, portraits and candid moments during the booked period",
+            "Selection and professional editing of 20 photographs",
+            "High-resolution digital delivery"
+          ]
+        },
+        {
+          "nome": "Stories to Keep",
+          "descricao": "More time to follow the celebration and comfortably capture different moments, guests and interactions.",
+          "inclui": [
+            "Approximately 45–60 minutes of photography coverage",
+            "Decorations, guests, birthday person and celebration highlights",
+            "Candid photographs and family portraits",
+            "Selection and professional editing of 30 photographs",
+            "High-resolution digital delivery"
+          ]
+        },
+        {
+          "nome": "Special Memories",
+          "descricao": "More complete coverage, with extra time to tell the story of the celebration and capture a wider variety of moments.",
+          "inclui": [
+            "Approximately 60–90 minutes of photography coverage",
+            "Details, guests, birthday person and agreed key moments",
+            "Candid photographs, portraits and interactions during the party",
+            "Selection and professional editing of 40 photographs",
+            "High-resolution digital delivery"
+          ]
+        }
+      ],
+      "entrega_h": "Photo delivery",
+      "entrega": [
+        "Photographs are delivered digitally in high resolution through an online gallery or another agreed method. All included photographs are selected and professionally edited. RAW files and additional photographs are not included as standard.",
+        "Coverage includes the moments that take place during the booked period. Specific moments, such as the birthday song or opening presents, should be agreed in advance and depend on the coverage schedule."
+      ],
+      "invest_h": "Availability, confirmation and payment",
+      "invest": [
+        "The requested date is a preference only and does not constitute a booking. Edilaine will check availability and confirm it personally after getting in touch.",
+        "Once availability is confirmed and the proposal is accepted, 50% of the package total is payable to secure the booking. The remaining 50% is payable when the final photographs are delivered.",
+        "Payment is made directly to the photographer via Swish or cash. No payments are processed through this website.",
+        "Rescheduling and cancellation requests are handled with understanding and open communication. Whenever possible, rescheduling will be arranged at no extra cost, subject to availability. If something unexpected happens on the day, please contact Edilaine as soon as possible."
+      ],
+      "nome_label": "Your name and the birthday person’s name (for the summary)",
+      "nome_ph": "E.g. Anna — Lucas’s birthday",
+      "fecho": [
+        "A party ends. The memories remain. 🤍",
+        "It will be a pleasure to capture the moments that make your celebration special."
+      ],
+      "assinatura": "Edilaine Oliveira",
+      "funcao": "Photographer"
+    }
+  }
+}

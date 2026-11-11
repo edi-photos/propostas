@@ -1,0 +1,216 @@
+{
+  "idioma_padrao": "pt",
+  "calendario": {
+    "fim": "2027-05-31",
+    "antecedencia_dias": 2
+  },
+  "tema": {
+    "claro": "--bg:#faf6f1;--card:#fff;--ink:#3b302b;--muted:#7b6d64;--accent:#9b8066;--accent2:#eee4da;--line:#e8ddd2",
+    "escuro": "--bg:#1e1a17;--card:#2a2420;--ink:#f3ebe4;--muted:#bcaea2;--accent:#c4a487;--accent2:#3b3028;--line:#453a32"
+  },
+  "pacotes": [
+    {
+      "preco": 800,
+      "a_partir": false
+    },
+    {
+      "preco": 1400,
+      "a_partir": false
+    },
+    {
+      "preco": 1800,
+      "a_partir": false
+    }
+  ],
+  "textos": {
+    "pt": {
+      "titulo_aba": "Ensaio de Família — Edilaine Oliveira",
+      "etiqueta": "ENSAIO DE FAMÍLIA",
+      "titulo": "A beleza de estar juntos. 🤍",
+      "intro": [
+        "Não é preciso uma data especial para celebrar aquilo que realmente importa. Um ensaio leve e natural para registrar a conexão, os gestos, os sorrisos e os pequenos momentos que fazem da sua família uma história única."
+      ],
+      "mensagem": "Olá, Edilaine! Gostaria de conhecer a disponibilidade para um ensaio de família.",
+      "nota_local": "O local será combinado previamente. Eventuais custos adicionais de deslocamento ou locação serão informados antes da confirmação do ensaio.",
+      "pacotes": [
+        {
+          "nome": "Pequenos Instantes",
+          "descricao": "Uma sessão breve e descontraída, ideal para guardar um retrato especial da família e registrar a alegria de estarem juntos.",
+          "inclui": [
+            "Sessão fotográfica de aproximadamente 30 minutos",
+            "Orientação para retratos naturais e momentos espontâneos",
+            "Seleção e edição profissional de 20 fotografias",
+            "Entrega digital em alta resolução"
+          ]
+        },
+        {
+          "nome": "Histórias que Ficam",
+          "descricao": "Mais tempo para aproveitar a experiência, criar diferentes composições e registrar a personalidade e a conexão de cada pessoa da família.",
+          "inclui": [
+            "Sessão fotográfica de aproximadamente 45–60 minutos",
+            "Retratos da família reunida e combinações entre seus integrantes",
+            "Maior variedade de poses, interações e momentos espontâneos",
+            "Seleção e edição profissional de 30 fotografias",
+            "Entrega digital em alta resolução"
+          ]
+        },
+        {
+          "nome": "Memórias Especiais",
+          "descricao": "Uma experiência mais completa, com tempo para explorar o ambiente, variar as composições e construir uma coleção ainda mais rica de lembranças em família.",
+          "inclui": [
+            "Sessão fotográfica de aproximadamente 60–90 minutos",
+            "Planejamento prévio do local e orientação durante o ensaio",
+            "Retratos individuais, em duplas e da família reunida",
+            "Seleção e edição profissional de 40 fotografias",
+            "Entrega digital em alta resolução"
+          ]
+        }
+      ],
+      "entrega_h": "Entrega das fotografias",
+      "entrega": [
+        "As imagens são entregues digitalmente, em alta resolução, por meio de uma galeria online ou outro meio combinado. Todas as fotografias incluídas passam por seleção e edição profissional. Arquivos RAW e fotografias adicionais não fazem parte da entrega padrão."
+      ],
+      "invest_h": "Disponibilidade, confirmação e pagamento",
+      "invest": [
+        "A data indicada é apenas uma preferência e não representa uma reserva. A disponibilidade será avaliada e confirmada pessoalmente por Edilaine após o contato.",
+        "Após a confirmação da disponibilidade e a aceitação da proposta, 50% do valor total do pacote será pago para confirmar a reserva. Os 50% restantes serão pagos na entrega das fotografias finais.",
+        "O pagamento é realizado diretamente à fotógrafa, via Swish ou dinheiro. Não são realizados pagamentos por este site.",
+        "Pedidos de remarcação ou cancelamento serão tratados com diálogo e bom senso. Sempre que possível, a remarcação será combinada sem custo, conforme a disponibilidade. Em caso de imprevisto no dia, pedimos que entre em contato com Edilaine assim que possível."
+      ],
+      "nome_label": "Seu nome (para o resumo)",
+      "nome_ph": "Ex.: Ana e família",
+      "fecho": [
+        "As melhores lembranças são feitas de momentos simples. 🤍",
+        "Será um prazer registrar a história da sua família com sensibilidade, naturalidade e carinho."
+      ],
+      "assinatura": "Edilaine Oliveira",
+      "funcao": "Fotógrafa"
+    },
+    "sv": {
+      "titulo_aba": "Familjefotografering — Edilaine Oliveira",
+      "etiqueta": "FAMILJEFOTOGRAFERING",
+      "titulo": "Skönheten i att vara tillsammans. 🤍",
+      "intro": [
+        "Det behövs inget särskilt tillfälle för att fira det som betyder mest. En avslappnad och naturlig fotografering för att fånga gemenskapen, gesterna, leendena och de små ögonblicken som gör just er familj unik."
+      ],
+      "mensagem": "Hej Edilaine! Jag vill gärna veta mer om tillgänglighet för en familjefotografering.",
+      "nota_local": "Platsen bestäms i förväg. Eventuella extra kostnader för resa eller lokal meddelas innan fotograferingen bekräftas.",
+      "pacotes": [
+        {
+          "nome": "Små ögonblick",
+          "descricao": "En kort och avslappnad fotografering, perfekt för ett fint familjeporträtt och för att fånga glädjen i att vara tillsammans.",
+          "inclui": [
+            "Fotografering i cirka 30 minuter",
+            "Vägledning för naturliga porträtt och spontana ögonblick",
+            "Urval och professionell redigering av 20 bilder",
+            "Digital leverans i hög upplösning"
+          ]
+        },
+        {
+          "nome": "Berättelser att bevara",
+          "descricao": "Mer tid att njuta av fotograferingen, skapa olika bildkompositioner och fånga varje familjemedlems personlighet och gemenskapen mellan er.",
+          "inclui": [
+            "Fotografering i cirka 45–60 minuter",
+            "Porträtt av hela familjen och olika kombinationer",
+            "Större variation av poser, samspel och spontana ögonblick",
+            "Urval och professionell redigering av 30 bilder",
+            "Digital leverans i hög upplösning"
+          ]
+        },
+        {
+          "nome": "Särskilda minnen",
+          "descricao": "En mer omfattande upplevelse med tid att utforska omgivningen, variera bildkompositionerna och skapa en ännu rikare samling familjeminnen.",
+          "inclui": [
+            "Fotografering i cirka 60–90 minuter",
+            "Planering av platsen i förväg och vägledning under fotograferingen",
+            "Individuella porträtt, parbilder och bilder av hela familjen",
+            "Urval och professionell redigering av 40 bilder",
+            "Digital leverans i hög upplösning"
+          ]
+        }
+      ],
+      "entrega_h": "Leverans av bilderna",
+      "entrega": [
+        "Bilderna levereras digitalt i hög upplösning via ett onlinegalleri eller på annat överenskommet sätt. Alla bilder som ingår väljs ut och redigeras professionellt. RAW-filer och extra bilder ingår inte i standardleveransen."
+      ],
+      "invest_h": "Tillgänglighet, bokningsbekräftelse och betalning",
+      "invest": [
+        "Det önskade datumet är endast ett önskemål och innebär inte en bokning. Edilaine kontrollerar tillgängligheten och bekräftar personligen efter kontakt.",
+        "När tillgängligheten har bekräftats och erbjudandet accepterats betalas 50 % av paketets totalpris för att bekräfta bokningen. Resterande 50 % betalas när de färdiga bilderna levereras.",
+        "Betalningen görs direkt till fotografen via Swish eller kontant. Betalning sker inte via denna webbplats.",
+        "Önskemål om ombokning eller avbokning hanteras med dialog och förståelse. När det är möjligt försöker vi ordna en kostnadsfri ombokning utifrån tillgänglighet. Om något oförutsett inträffar på fotograferingsdagen ber vi dig kontakta Edilaine så snart som möjligt."
+      ],
+      "nome_label": "Ditt namn (för sammanfattningen)",
+      "nome_ph": "T.ex. Anna och familjen",
+      "fecho": [
+        "De finaste minnena skapas ofta i de enklaste stunderna. 🤍",
+        "Det blir ett nöje att få skildra er familjs berättelse med känsla, närvaro och värme."
+      ],
+      "assinatura": "Edilaine Oliveira",
+      "funcao": "Fotograf"
+    },
+    "en": {
+      "titulo_aba": "Family Photography — Edilaine Oliveira",
+      "etiqueta": "FAMILY PHOTOGRAPHY",
+      "titulo": "The beauty of being together. 🤍",
+      "intro": [
+        "You don't need a special date to celebrate what matters most. A relaxed, natural session to capture your connection, gestures, smiles and the little moments that make your family’s story unique."
+      ],
+      "mensagem": "Hello, Edilaine! I’d like to ask about availability for a family photo session.",
+      "nota_local": "The location will be agreed in advance. Any additional travel or venue costs will be communicated before the session is confirmed.",
+      "pacotes": [
+        {
+          "nome": "Little Moments",
+          "descricao": "A short, relaxed session, ideal for a special family portrait and for capturing the joy of being together.",
+          "inclui": [
+            "Approximately 30-minute photo session",
+            "Guidance for natural portraits and candid moments",
+            "Selection and professional editing of 20 photographs",
+            "High-resolution digital delivery"
+          ]
+        },
+        {
+          "nome": "Stories to Keep",
+          "descricao": "More time to enjoy the experience, explore different compositions and capture each family member’s personality and your connection.",
+          "inclui": [
+            "Approximately 45–60-minute photo session",
+            "Portraits of the whole family and different family groupings",
+            "A wider variety of poses, interactions and candid moments",
+            "Selection and professional editing of 30 photographs",
+            "High-resolution digital delivery"
+          ]
+        },
+        {
+          "nome": "Special Memories",
+          "descricao": "A more complete experience, with time to explore the surroundings, vary the compositions and create an even richer collection of family memories.",
+          "inclui": [
+            "Approximately 60–90-minute photo session",
+            "Advance location planning and guidance during the session",
+            "Individual portraits, smaller groupings and full-family portraits",
+            "Selection and professional editing of 40 photographs",
+            "High-resolution digital delivery"
+          ]
+        }
+      ],
+      "entrega_h": "Photo delivery",
+      "entrega": [
+        "Photographs are delivered digitally in high resolution through an online gallery or another agreed method. All included photographs are selected and professionally edited. RAW files and additional photographs are not included as standard."
+      ],
+      "invest_h": "Availability, confirmation and payment",
+      "invest": [
+        "The requested date is a preference only and does not constitute a booking. Edilaine will check availability and confirm it personally after getting in touch.",
+        "Once availability is confirmed and the proposal is accepted, 50% of the package total is payable to secure the booking. The remaining 50% is payable when the final photographs are delivered.",
+        "Payment is made directly to the photographer via Swish or cash. No payments are processed through this website.",
+        "Rescheduling and cancellation requests are handled with understanding and open communication. Whenever possible, rescheduling will be arranged at no extra cost, subject to availability. If something unexpected happens on the day, please contact Edilaine as soon as possible."
+      ],
+      "nome_label": "Your name (for the summary)",
+      "nome_ph": "E.g. Anna and family",
+      "fecho": [
+        "The most meaningful memories are often made in the simplest moments. 🤍",
+        "It will be a pleasure to capture your family’s story with warmth, care and authenticity."
+      ],
+      "assinatura": "Edilaine Oliveira",
+      "funcao": "Photographer"
+    }
+  }
+}
