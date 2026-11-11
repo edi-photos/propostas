@@ -55,3 +55,6 @@ footer a{color:var(--accent);text-decoration:none}
 .cal-e{visibility:hidden}
 .cal-leg{font-family:system-ui,sans-serif;font-size:13px;color:var(--muted);margin:10px 0 0}
 @media (prefers-color-scheme:dark){.logo,.flogo{filter:brightness(1.55)}}
+.topo{display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:wrap;font-family:system-ui,sans-serif}
+.voltar{color:var(--muted);text-decoration:none;font-size:14px}
+.topo .lang{margin-left:auto}

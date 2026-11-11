@@ -1,0 +1,302 @@
+{
+ "propostas": [
+  "familia",
+  "aniversario",
+  "pet",
+  "natal"
+ ],
+ "categorias": {
+  "familia": {
+   "pt": "Família",
+   "sv": "Familj",
+   "en": "Family"
+  },
+  "aniversario": {
+   "pt": "Aniversário",
+   "sv": "Födelsedag",
+   "en": "Birthday"
+  },
+  "pets": {
+   "pt": "Pets",
+   "sv": "Husdjur",
+   "en": "Pets"
+  },
+  "natal": {
+   "pt": "Natal",
+   "sv": "Jul",
+   "en": "Christmas"
+  }
+ },
+ "textos": {
+  "pt": {
+   "titulo_aba": "Edilaine de Oliveira — Fotografia",
+   "etiqueta": "FOTOGRAFIA",
+   "titulo": "Memórias que ficam, em fotografias naturais e cheias de afeto",
+   "intro": "Ensaios de família, aniversário, Natal e pets, feitos com leveza e atenção a cada detalhe. Escolha a experiência que combina com vocês, veja os pacotes e escolha a data que prefere.",
+   "nav": {
+    "inicio": "Início",
+    "ensaios": "Ensaios",
+    "portfolio": "Portfólio",
+    "dicas": "Dicas",
+    "contato": "Contato"
+   },
+   "ensaios_h": "Escolha seu ensaio",
+   "ver_pacotes": "Ver pacotes",
+   "a_partir": "a partir de",
+   "portfolio_h": "Portfólio",
+   "portfolio_txt": "Algumas das histórias que já tive o prazer de registrar.",
+   "portfolio_btn": "Ver portfólio",
+   "dicas_h": "Dicas para o ensaio",
+   "dicas_txt": "O que vestir, como se preparar e como aproveitar ao máximo a sessão.",
+   "dicas_btn": "Ver dicas",
+   "contato_h": "Vamos conversar?",
+   "contato_txt": "Tem alguma dúvida ou quer saber mais sobre disponibilidade? Escreva para mim.",
+   "whatsapp": "WhatsApp",
+   "instagram": "Instagram",
+   "p_titulo": "Portfólio",
+   "p_intro": "Momentos reais de famílias, celebrações e pets.",
+   "todos": "Todos",
+   "vazio": "Em breve, novas fotografias por aqui.",
+   "fechar": "Fechar",
+   "anterior": "Anterior",
+   "proximo": "Próxima",
+   "d_titulo": "Dicas para o ensaio",
+   "d_intro": "Pequenos cuidados que deixam todos mais à vontade e as fotografias ainda mais bonitas.",
+   "secoes": [
+    {
+     "titulo": "Escolhendo as roupas",
+     "itens": [
+      {
+       "t": "Combine, sem igualar",
+       "d": "Escolha de duas a três cores que conversem entre si, em tons neutros, terrosos ou suaves, em vez de roupas idênticas. A foto fica harmoniosa e cada pessoa mantém a sua personalidade."
+      },
+      {
+       "t": "Cores lisas e texturas",
+       "d": "Malhas, lã, linho e tecidos com bom caimento ficam elegantes nas fotos. Evite estampas muito grandes, listras finas e logotipos aparentes, que chamam mais atenção do que as pessoas."
+      },
+      {
+       "t": "Conforto em primeiro lugar",
+       "d": "Quem está confortável sorri com mais naturalidade, principalmente as crianças. Prefira roupas que você já tenha testado e evite peças novas que apertem ou incomodem."
+      }
+     ]
+    },
+    {
+     "titulo": "Frio e ensaios ao ar livre",
+     "itens": [
+      {
+       "t": "Vista em camadas",
+       "d": "Casaco, colete, cachecol e gorro mantêm todos aquecidos, e dá para tirar uma camada entre as fotos. Leve luvas para as crianças e para quem sente mais frio."
+      },
+      {
+       "t": "Calçados adequados",
+       "d": "Botas ou tênis limpos e impermeáveis combinam com neve, folhas e grama. Meias de lã fazem diferença quando a sessão dura mais de uma hora."
+      },
+      {
+       "t": "Chegue com um pouco de antecedência",
+       "d": "Chegar alguns minutos antes permite se aquecer, ajeitar as roupas e começar sem pressa. Leve uma garrafa térmica com algo quente, se puder."
+      }
+     ]
+    },
+    {
+     "titulo": "Ensaio com pet",
+     "itens": [
+      {
+       "t": "Pense nas cores do pelo",
+       "d": "Roupas neutras ou em tons que contrastem com o pelo do pet destacam melhor os dois na fotografia."
+      },
+      {
+       "t": "Pet preparado",
+       "d": "Um passeio antes da sessão, uma boa escovada e os petiscos favoritos deixam o pet mais calmo e disposto. Use coleira simples e limpa; acessórios só se ele já estiver acostumado."
+      },
+      {
+       "t": "Tempo e paciência",
+       "d": "Cada animal tem o seu ritmo. Brinque, converse e siga a orientação durante a sessão: as melhores fotos costumam surgir nos momentos espontâneos."
+      }
+     ]
+    }
+   ],
+   "assinatura": "Edilaine de Oliveira",
+   "funcao": "Fotógrafa"
+  },
+  "sv": {
+   "titulo_aba": "Edilaine de Oliveira — Fotografi",
+   "etiqueta": "FOTOGRAFI",
+   "titulo": "Minnen som består, i naturliga bilder fyllda av värme",
+   "intro": "Familjefotografering, födelsedagar, jul och husdjur, med lätthet och omsorg om varje detalj. Välj den upplevelse som passar er, se paketen och välj önskat datum.",
+   "nav": {
+    "inicio": "Hem",
+    "ensaios": "Fotograferingar",
+    "portfolio": "Portfolio",
+    "dicas": "Tips",
+    "contato": "Kontakt"
+   },
+   "ensaios_h": "Välj din fotografering",
+   "ver_pacotes": "Se paketen",
+   "a_partir": "från",
+   "portfolio_h": "Portfolio",
+   "portfolio_txt": "Några av de berättelser jag haft nöjet att fånga.",
+   "portfolio_btn": "Se portfolion",
+   "dicas_h": "Tips inför fotograferingen",
+   "dicas_txt": "Vad du ska ha på dig, hur du förbereder dig och hur du får ut mest av tillfället.",
+   "dicas_btn": "Se tipsen",
+   "contato_h": "Ska vi prata?",
+   "contato_txt": "Har du frågor eller undrar över lediga datum? Skriv till mig.",
+   "whatsapp": "WhatsApp",
+   "instagram": "Instagram",
+   "p_titulo": "Portfolio",
+   "p_intro": "Äkta ögonblick med familjer, högtider och husdjur.",
+   "todos": "Alla",
+   "vazio": "Nya bilder kommer snart.",
+   "fechar": "Stäng",
+   "anterior": "Föregående",
+   "proximo": "Nästa",
+   "d_titulo": "Tips inför fotograferingen",
+   "d_intro": "Små saker som får alla att känna sig mer avslappnade och bilderna ännu vackrare.",
+   "secoes": [
+    {
+     "titulo": "Välja kläder",
+     "itens": [
+      {
+       "t": "Matcha, utan att vara likadana",
+       "d": "Välj två eller tre färger som passar ihop, gärna neutrala, jordnära eller dämpade toner, i stället för identiska kläder. Bilden blir harmonisk och var och en behåller sin personlighet."
+      },
+      {
+       "t": "Enfärgat och texturer",
+       "d": "Stickat, ull, linne och tyger med fint fall tar sig bra på bild. Undvik stora mönster, tunna ränder och tydliga loggor, som drar mer blickar än människorna."
+      },
+      {
+       "t": "Bekvämlighet först",
+       "d": "Den som känner sig bekväm ler mer naturligt, särskilt barnen. Välj kläder du redan har provat och undvik nya plagg som skaver eller sitter för tajt."
+      }
+     ]
+    },
+    {
+     "titulo": "Kyla och fotografering utomhus",
+     "itens": [
+      {
+       "t": "Klä dig i lager",
+       "d": "Jacka, väst, halsduk och mössa håller alla varma, och ett lager kan tas av mellan bilderna. Ta med vantar till barnen och till den som fryser lätt."
+      },
+      {
+       "t": "Rätt skor",
+       "d": "Rena, vattentäta kängor eller skor passar till snö, löv och gräs. Ullstrumpor gör stor skillnad när fotograferingen tar mer än en timme."
+      },
+      {
+       "t": "Kom i god tid",
+       "d": "Genom att komma några minuter tidigare hinner ni värma er, ordna kläderna och börja i lugn och ro. Ta gärna med en termos med något varmt."
+      }
+     ]
+    },
+    {
+     "titulo": "Fotografering med husdjur",
+     "itens": [
+      {
+       "t": "Tänk på pälsens färg",
+       "d": "Neutrala kläder eller toner som kontrasterar mot djurets päls får både er och djuret att framträda bättre på bild."
+      },
+      {
+       "t": "Förberett husdjur",
+       "d": "En promenad före sessionen, en ordentlig borstning och favoritgodiset gör djuret lugnare och mer på hugget. Använd ett enkelt, rent koppel; tillbehör bara om djuret är van vid dem."
+      },
+      {
+       "t": "Tid och tålamod",
+       "d": "Varje djur har sin egen takt. Lek, prata och följ vägledningen under sessionen: de bästa bilderna uppstår ofta i spontana ögonblick."
+      }
+     ]
+    }
+   ],
+   "assinatura": "Edilaine de Oliveira",
+   "funcao": "Fotograf"
+  },
+  "en": {
+   "titulo_aba": "Edilaine de Oliveira — Photography",
+   "etiqueta": "PHOTOGRAPHY",
+   "titulo": "Lasting memories, in natural photographs full of warmth",
+   "intro": "Family, birthday, Christmas and pet photoshoots, made with a light touch and attention to every detail. Choose the experience that suits you, see the packages and pick the date you prefer.",
+   "nav": {
+    "inicio": "Home",
+    "ensaios": "Sessions",
+    "portfolio": "Portfolio",
+    "dicas": "Tips",
+    "contato": "Contact"
+   },
+   "ensaios_h": "Choose your session",
+   "ver_pacotes": "See packages",
+   "a_partir": "from",
+   "portfolio_h": "Portfolio",
+   "portfolio_txt": "Some of the stories I have had the pleasure of capturing.",
+   "portfolio_btn": "View portfolio",
+   "dicas_h": "Tips for your session",
+   "dicas_txt": "What to wear, how to prepare and how to make the most of your session.",
+   "dicas_btn": "View tips",
+   "contato_h": "Shall we talk?",
+   "contato_txt": "Have questions or want to ask about available dates? Write to me.",
+   "whatsapp": "WhatsApp",
+   "instagram": "Instagram",
+   "p_titulo": "Portfolio",
+   "p_intro": "Real moments of families, celebrations and pets.",
+   "todos": "All",
+   "vazio": "New photos coming soon.",
+   "fechar": "Close",
+   "anterior": "Previous",
+   "proximo": "Next",
+   "d_titulo": "Tips for your session",
+   "d_intro": "Small things that help everyone feel at ease and make the photographs even more beautiful.",
+   "secoes": [
+    {
+     "titulo": "Choosing your outfits",
+     "itens": [
+      {
+       "t": "Coordinate, don't match",
+       "d": "Pick two or three colours that work well together, in neutral, earthy or soft tones, rather than identical outfits. The photo feels harmonious and everyone keeps their own personality."
+      },
+      {
+       "t": "Solid colours and textures",
+       "d": "Knits, wool, linen and fabrics with a nice drape look elegant in photos. Avoid very large prints, thin stripes and visible logos, which draw more attention than the people."
+      },
+      {
+       "t": "Comfort comes first",
+       "d": "People who feel comfortable smile more naturally, especially children. Choose clothes you have already tried on and avoid new pieces that pinch or bother you."
+      }
+     ]
+    },
+    {
+     "titulo": "Cold weather and outdoor sessions",
+     "itens": [
+      {
+       "t": "Dress in layers",
+       "d": "A coat, vest, scarf and hat keep everyone warm, and you can take off a layer between photos. Bring gloves for the children and for anyone who feels the cold."
+      },
+      {
+       "t": "The right footwear",
+       "d": "Clean, waterproof boots or shoes go well with snow, leaves and grass. Wool socks make a big difference when the session lasts more than an hour."
+      },
+      {
+       "t": "Arrive a little early",
+       "d": "Arriving a few minutes early lets you warm up, adjust your clothes and start without rushing. Bring a thermos with something hot if you can."
+      }
+     ]
+    },
+    {
+     "titulo": "Sessions with pets",
+     "itens": [
+      {
+       "t": "Think about your pet's coat",
+       "d": "Neutral clothes, or tones that contrast with the fur, make both of you stand out better in the photograph."
+      },
+      {
+       "t": "A well-prepared pet",
+       "d": "A walk before the session, a good brushing and their favourite treats make your pet calmer and more willing. Use a simple, clean lead; accessories only if they are used to them."
+      },
+      {
+       "t": "Time and patience",
+       "d": "Every animal has its own pace. Play, talk and follow the guidance during the session: the best photos often come from spontaneous moments."
+      }
+     ]
+    }
+   ],
+   "assinatura": "Edilaine de Oliveira",
+   "funcao": "Photographer"
+  }
+ }
+}
