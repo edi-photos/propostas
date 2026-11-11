@@ -4,10 +4,12 @@ var LOC={pt:"pt-BR",sv:"sv-SE",en:"en-GB"};
 var el=document.getElementById("portal"),PAG=el.getAttribute("data-pagina");
 function e(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
 function J(u){return fetch(u).then(function(r){if(!r.ok)throw new Error(u);return r.json()})}
+var PRIV={pt:"Política de privacidade",sv:"Integritetspolicy",en:"Privacy policy"},PRIVD=null;
 var CFG,P,LANGS,S={lang:"pt",cat:"todos",foto:-1},CARDS=[],FOTOS=[],VIS=[];
 Promise.all([J(ROOT+"config.json"),J(ROOT+"portal.json")]).then(function(r){
  CFG=r[0];P=r[1];LANGS=Object.keys(P.textos);S.lang=pickLang();
  var tasks=[J(ROOT+"portfolio/fotos.json?t="+Date.now()).then(function(j){FOTOS=j.fotos||[]},function(){FOTOS=[]})];
+ if(PAG==="privacidade")tasks.push(J(ROOT+"privacidade/dados.json").then(function(j){PRIVD=j}));
  if(PAG==="home")tasks.push(Promise.all(P.propostas.map(function(s){return J(ROOT+s+"/dados.json").then(function(d){return{slug:s,d:d}},function(){return null})})).then(function(a){CARDS=a.filter(Boolean)}));
  return Promise.all(tasks);
 }).then(render).catch(function(){el.textContent="Não foi possível carregar / Could not load."});
@@ -28,7 +30,7 @@ function topo(t){
  return'<div class="topo"><nav class="nav">'+L.map(function(x){return'<a href="'+x[1]+'"'+(x[2]&&x[2]===PAG?' aria-current="page"':"")+">"+e(t.nav[x[0]])+"</a>"}).join("")+'</nav><div class="lang">'+LANGS.map(function(l){return'<button type="button" data-l="'+l+'" aria-pressed="'+(l===S.lang)+'">'+l.toUpperCase()+"</button>"}).join("")+"</div></div>";
 }
 function rodape(t){
- return'<footer id="contato" class="contato"><h2>'+e(t.contato_h)+"</h2><p>"+e(t.contato_txt)+'</p><div class="btns"><a class="btn" href="https://wa.me/'+e(CFG.telefone_whatsapp)+'" target="_blank" rel="noopener">'+e(t.whatsapp)+'</a><a class="btn alt" href="https://instagram.com/'+e(CFG.instagram)+'" target="_blank" rel="noopener">'+e(t.instagram)+'</a></div><p style="margin-top:22px"><b>'+e(t.assinatura)+"</b><br>"+e(t.funcao)+'</p><img class="flogo" alt="" src="'+ROOT+'assets/logo.png"></footer>';
+ return'<footer id="contato" class="contato"><h2>'+e(t.contato_h)+"</h2><p>"+e(t.contato_txt)+'</p><div class="btns"><a class="btn" href="https://wa.me/'+e(CFG.telefone_whatsapp)+'" target="_blank" rel="noopener">'+e(t.whatsapp)+'</a><a class="btn alt" href="https://instagram.com/'+e(CFG.instagram)+'" target="_blank" rel="noopener">'+e(t.instagram)+'</a></div><p style="margin-top:22px"><b>'+e(t.assinatura)+"</b><br>"+e(t.funcao)+'</p><p class="note"><a href="'+ROOT+'privacidade/">'+e(PRIV[S.lang])+'</a></p><img class="flogo" alt="" src="'+ROOT+'assets/logo.png"></footer>';
 }
 function hero(t,small,h1,p){return'<header class="hero"><img class="logo" alt="Edi" src="'+ROOT+'assets/logo.png"><small>'+e(small)+"</small><h1>"+e(h1)+"</h1>"+(p?"<p>"+e(p)+"</p>":"")+"</header>"}
 
@@ -55,15 +57,24 @@ function portfolio(t){
  h+='<div class="lb" id="lb"><button type="button" class="x" aria-label="'+e(t.fechar)+'">×</button><button type="button" class="p" aria-label="'+e(t.anterior)+'">‹</button><img alt=""><button type="button" class="n" aria-label="'+e(t.proximo)+'">›</button></div>';
  return h;
 }
+function priv(t){
+ var d=PRIVD,p=d.textos[S.lang]||d.textos.pt,E=d.empresa||{},host=d.hospedagem||"";
+ var dt=new Date(d.atualizado+"T12:00:00").toLocaleDateString(LOC[S.lang],{year:"numeric",month:"long",day:"numeric"});
+ var h=hero(t,PRIV[S.lang],p.titulo,p.intro)+'<p class="note" style="text-align:center">'+e(p.atualizado)+" "+e(dt)+"</p>";
+ h+=p.secoes.map(function(s,i){return"<h2>"+(i+1)+". "+e(s.t)+'</h2><div class="box">'+s.p.map(function(x){return"<p>"+e(x.replace("{host}",host))+"</p>"}).join("")+"</div>"}).join("");
+ var c=[];if(E.nome)c.push("<b>"+e(E.nome)+"</b>");if(E.orgnr)c.push(e(p.l_orgnr)+": "+e(E.orgnr));if(E.endereco)c.push(e(p.l_endereco)+": "+e(E.endereco));if(E.email)c.push(e(p.l_email)+': <a href="mailto:'+e(E.email)+'">'+e(E.email)+"</a>");
+ c.push("WhatsApp: "+e(CFG.telefone_exibicao));c.push('Instagram: <a href="https://instagram.com/'+e(CFG.instagram)+'" target="_blank" rel="noopener">@'+e(CFG.instagram)+"</a>");
+ return h+"<h2>"+e(p.contato_h)+'</h2><div class="box"><p>'+c.join("<br>")+"</p></div>";
+}
 function dicas(t){
  var h=hero(t,t.dicas_h,t.d_titulo,t.d_intro);
  return h+t.secoes.map(function(s){return"<h2>"+e(s.titulo)+'</h2><div class="box">'+s.itens.map(function(i){return'<div class="dica"><b>'+e(i.t)+"</b><span>"+e(i.d)+"</span></div>"}).join("")+"</div>"}).join("");
 }
 function render(){
  var t=T();document.documentElement.lang=S.lang;
- document.title=(PAG==="portfolio"?t.p_titulo:PAG==="dicas"?t.d_titulo:t.titulo_aba)+(PAG==="home"?"":" — "+t.assinatura);
+ document.title=(PAG==="privacidade"?PRIV[S.lang]:PAG==="portfolio"?t.p_titulo:PAG==="dicas"?t.d_titulo:t.titulo_aba)+(PAG==="home"?"":" — "+t.assinatura);
  document.body.className="pagina";
- el.innerHTML='<div class="wrap">'+topo(t)+(PAG==="home"?home(t):PAG==="portfolio"?portfolio(t):dicas(t))+rodape(t)+"</div>";
+ el.innerHTML='<div class="wrap">'+topo(t)+(PAG==="home"?home(t):PAG==="portfolio"?portfolio(t):PAG==="privacidade"?priv(t):dicas(t))+rodape(t)+"</div>";
  Array.prototype.forEach.call(el.querySelectorAll(".lang button"),function(b){b.onclick=function(){setLang(b.getAttribute("data-l"))}});
  if(PAG==="portfolio")bindPortfolio();
 }
