@@ -1,0 +1,231 @@
+{
+ "atualizado": "2026-11-11",
+ "hospedagem": "GitHub Pages",
+ "empresa": {
+  "nome": "Edilaine de Oliveira",
+  "orgnr": "",
+  "email": "",
+  "endereco": ""
+ },
+ "textos": {
+  "pt": {
+   "titulo": "Política de privacidade",
+   "intro": "Aqui explicamos, de forma simples, quais informações este site usa e o que acontece com elas quando você entra em contato.",
+   "atualizado": "Atualizado em",
+   "contato_h": "Contato",
+   "l_orgnr": "Org. nr",
+   "l_email": "E-mail",
+   "l_endereco": "Endereço",
+   "secoes": [
+    {
+     "t": "Quem é a responsável",
+     "p": [
+      "A responsável pelo tratamento dos seus dados pessoais é Edilaine de Oliveira, fotógrafa. Para dúvidas sobre esta página ou sobre os seus dados, use os contatos no fim da página."
+     ]
+    },
+    {
+     "t": "O que este site faz com o que você digita",
+     "p": [
+      "Este site não tem cadastro, não envia formulários para um servidor e não usa cookies de publicidade nem ferramentas de análise de visitas.",
+      "O que você digita nas propostas (como nome, cidade, pacote e data preferida) fica apenas no seu navegador e serve para montar o resumo e a mensagem de WhatsApp. Nada disso é enviado ou guardado por este site; só chega à fotógrafa se você decidir enviar a mensagem."
+     ]
+    },
+    {
+     "t": "Quando você fala com a fotógrafa pelo WhatsApp ou Instagram",
+     "p": [
+      "As informações que você escrever na conversa (por exemplo nome, contato, cidade, data desejada e detalhes do ensaio) são usadas para responder, confirmar a disponibilidade, combinar o ensaio e entregar as fotografias.",
+      "Essas conversas passam pelos serviços do WhatsApp e do Instagram (Meta), que têm as suas próprias regras de privacidade."
+     ]
+    },
+    {
+     "t": "Dados do ensaio e da contratação",
+     "p": [
+      "Para realizar o ensaio, a fotógrafa guarda os seus dados de contato, o que foi combinado, as fotografias do ensaio (que podem mostrar você, sua família, inclusive crianças, e o seu pet) e os registros de pagamento exigidos pela contabilidade.",
+      "Esses dados são mantidos pelo tempo necessário para prestar o serviço e, no caso dos registros contábeis, pelo prazo exigido pela legislação sueca. Depois disso, são apagados.",
+      "Os dados não são vendidos nem usados para outros fins sem o seu consentimento."
+     ]
+    },
+    {
+     "t": "Fotografias no portfólio e nas redes sociais",
+     "p": [
+      "As fotografias de clientes só são publicadas, no portfólio deste site ou nas redes sociais, com autorização prévia. No caso de crianças, a autorização é dada pelos responsáveis.",
+      "Você pode retirar a autorização a qualquer momento, entrando em contato, e a fotografia será removida."
+     ]
+    },
+    {
+     "t": "Serviços usados por este site",
+     "p": [
+      "Hospedagem: este site é entregue por {host}. Como em qualquer site, o provedor pode registrar dados técnicos de acesso, como o endereço IP, por motivos de segurança e funcionamento.",
+      "Agenda: as datas indisponíveis vêm da agenda da fotógrafa. O site recebe apenas os dias ocupados, sem nomes nem detalhes.",
+      "Links externos: ao tocar nos botões de WhatsApp e Instagram você sai deste site e passa a seguir as regras desses serviços."
+     ]
+    },
+    {
+     "t": "Armazenamento no seu aparelho",
+     "p": [
+      "O site guarda no seu navegador apenas a sua escolha de idioma, para lembrar a sua preferência na próxima visita. Não há rastreamento."
+     ]
+    },
+    {
+     "t": "Seus direitos",
+     "p": [
+      "Você pode pedir acesso aos seus dados, correção, apagamento, limitação do uso e portabilidade, e pode se opor ao tratamento, entrando em contato pelos canais abaixo.",
+      "Se achar que seus dados não estão sendo tratados corretamente, também pode reclamar à autoridade sueca de proteção de dados, a IMY (imy.se)."
+     ]
+    },
+    {
+     "t": "Alterações",
+     "p": [
+      "Esta página pode ser atualizada. A data da última atualização aparece no topo."
+     ]
+    }
+   ]
+  },
+  "sv": {
+   "titulo": "Integritetspolicy",
+   "intro": "Här förklarar vi på ett enkelt sätt vilka uppgifter den här webbplatsen använder och vad som händer med dem när du tar kontakt.",
+   "atualizado": "Uppdaterad",
+   "contato_h": "Kontakt",
+   "l_orgnr": "Org.nr",
+   "l_email": "E-post",
+   "l_endereco": "Adress",
+   "secoes": [
+    {
+     "t": "Vem som är ansvarig",
+     "p": [
+      "Personuppgiftsansvarig är Edilaine de Oliveira, fotograf. Har du frågor om den här sidan eller om dina uppgifter kan du använda kontaktuppgifterna längst ned på sidan."
+     ]
+    },
+    {
+     "t": "Vad webbplatsen gör med det du skriver",
+     "p": [
+      "Webbplatsen har ingen registrering, skickar inga formulär till någon server och använder varken reklamkakor eller verktyg för besöksstatistik.",
+      "Det du skriver i offerterna (till exempel namn, ort, paket och önskat datum) stannar i din webbläsare och används bara för att skapa sammanfattningen och WhatsApp-meddelandet. Inget av det skickas eller sparas av webbplatsen; det når fotografen först om du själv väljer att skicka meddelandet."
+     ]
+    },
+    {
+     "t": "När du skriver till fotografen via WhatsApp eller Instagram",
+     "p": [
+      "Uppgifterna du skriver i konversationen (till exempel namn, kontaktuppgifter, ort, önskat datum och detaljer om fotograferingen) används för att svara, bekräfta tillgänglighet, planera fotograferingen och leverera bilderna.",
+      "Konversationerna går via WhatsApp och Instagram (Meta), som har sina egna integritetsregler."
+     ]
+    },
+    {
+     "t": "Uppgifter om fotograferingen och uppdraget",
+     "p": [
+      "För att genomföra fotograferingen sparar fotografen dina kontaktuppgifter, det som överenskommits, bilderna från fotograferingen (som kan visa dig, din familj, även barn, och ditt husdjur) samt betalningsunderlag som krävs för bokföringen.",
+      "Uppgifterna sparas så länge det behövs för att utföra tjänsten och, för bokföringsunderlag, så länge svensk lag kräver. Därefter raderas de.",
+      "Uppgifterna säljs inte och används inte för andra ändamål utan ditt samtycke."
+     ]
+    },
+    {
+     "t": "Bilder i portfolion och i sociala medier",
+     "p": [
+      "Kundbilder publiceras, i portfolion på den här webbplatsen eller i sociala medier, endast med förhandsgodkännande. För barn ges godkännandet av vårdnadshavarna.",
+      "Du kan när som helst återkalla godkännandet genom att kontakta fotografen, och bilden tas då bort."
+     ]
+    },
+    {
+     "t": "Tjänster som webbplatsen använder",
+     "p": [
+      "Webbhotell: webbplatsen levereras av {host}. Som för alla webbplatser kan leverantören logga tekniska åtkomstuppgifter, till exempel IP-adress, av säkerhets- och driftskäl.",
+      "Kalender: de upptagna datumen kommer från fotografens kalender. Webbplatsen får bara se vilka dagar som är upptagna, utan namn eller detaljer.",
+      "Externa länkar: när du trycker på knapparna för WhatsApp och Instagram lämnar du den här webbplatsen och omfattas av de tjänsternas regler."
+     ]
+    },
+    {
+     "t": "Lagring på din enhet",
+     "p": [
+      "Webbplatsen sparar bara ditt språkval i webbläsaren för att komma ihåg det nästa gång. Ingen spårning sker."
+     ]
+    },
+    {
+     "t": "Dina rättigheter",
+     "p": [
+      "Du kan begära tillgång till dina uppgifter, rättelse, radering, begränsning och dataportabilitet, samt invända mot behandlingen, genom att kontakta oss via kanalerna nedan.",
+      "Om du anser att dina uppgifter behandlas fel kan du också lämna klagomål till Integritetsskyddsmyndigheten, IMY (imy.se)."
+     ]
+    },
+    {
+     "t": "Ändringar",
+     "p": [
+      "Den här sidan kan uppdateras. Datum för senaste uppdatering visas högst upp."
+     ]
+    }
+   ]
+  },
+  "en": {
+   "titulo": "Privacy policy",
+   "intro": "Here we explain, in plain terms, what information this website uses and what happens to it when you get in touch.",
+   "atualizado": "Updated",
+   "contato_h": "Contact",
+   "l_orgnr": "Org. no.",
+   "l_email": "Email",
+   "l_endereco": "Address",
+   "secoes": [
+    {
+     "t": "Who is responsible",
+     "p": [
+      "The controller of your personal data is Edilaine de Oliveira, photographer. If you have questions about this page or your data, use the contact details at the bottom of the page."
+     ]
+    },
+    {
+     "t": "What the website does with what you type",
+     "p": [
+      "This website has no registration, does not send forms to a server and uses neither advertising cookies nor analytics tools.",
+      "What you enter in the proposals (such as name, city, package and preferred date) stays in your browser and is only used to build the summary and the WhatsApp message. None of it is sent to or stored by this website; it only reaches the photographer if you choose to send the message."
+     ]
+    },
+    {
+     "t": "When you contact the photographer on WhatsApp or Instagram",
+     "p": [
+      "The information you write in the conversation (for example name, contact details, city, preferred date and details of the session) is used to reply, confirm availability, arrange the session and deliver the photographs.",
+      "These conversations go through WhatsApp and Instagram (Meta), which have their own privacy rules."
+     ]
+    },
+    {
+     "t": "Session and booking data",
+     "p": [
+      "To carry out the session, the photographer keeps your contact details, what has been agreed, the photographs from the session (which may show you, your family, including children, and your pet) and payment records required for bookkeeping.",
+      "This data is kept for as long as needed to provide the service and, for accounting records, for the period required by Swedish law. After that it is deleted.",
+      "The data is not sold or used for other purposes without your consent."
+     ]
+    },
+    {
+     "t": "Photographs in the portfolio and on social media",
+     "p": [
+      "Client photographs are only published, in the portfolio on this website or on social media, with prior permission. For children, permission is given by their guardians.",
+      "You can withdraw permission at any time by getting in touch, and the photograph will be removed."
+     ]
+    },
+    {
+     "t": "Services used by this website",
+     "p": [
+      "Hosting: this website is delivered by {host}. As with any website, the provider may log technical access data, such as the IP address, for security and operational reasons.",
+      "Calendar: unavailable dates come from the photographer's calendar. The website only receives which days are busy, with no names or details.",
+      "External links: when you tap the WhatsApp and Instagram buttons you leave this website and the rules of those services apply."
+     ]
+    },
+    {
+     "t": "Storage on your device",
+     "p": [
+      "The website stores only your language choice in your browser, to remember your preference next time. There is no tracking."
+     ]
+    },
+    {
+     "t": "Your rights",
+     "p": [
+      "You can request access to your data, correction, erasure, restriction and portability, and you can object to processing, by contacting us through the channels below.",
+      "If you believe your data is not being handled properly, you can also complain to the Swedish data protection authority, IMY (imy.se)."
+     ]
+    },
+    {
+     "t": "Changes",
+     "p": [
+      "This page may be updated. The date of the last update is shown at the top."
+     ]
+    }
+   ]
+  }
+ }
+}
