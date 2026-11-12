@@ -1,0 +1,47 @@
+{
+  "pt": {
+    "ajuda_btn": "Precisa de ajuda?",
+    "ajuda_h": "Como funciona",
+    "ajuda_passos": [
+      "Escolha o pacote: toque no cartão do pacote que você prefere. Ele abre e mostra o que está incluído.",
+      "Digite a cidade onde será o ensaio. Se houver deslocamento, o valor aparece sozinho.",
+      "Escolha uma data livre no calendário. É só uma preferência: a fotógrafa confirma a disponibilidade com você.",
+      "Toque no botão “Enviar no WhatsApp”. A mensagem já vem pronta: é só apertar enviar no WhatsApp."
+    ],
+    "ajuda_fim": "Fique tranquilo: nada é enviado antes de você apertar enviar no WhatsApp, e nenhum pagamento é feito neste site.",
+    "ajuda_zap": "Prefiro falar direto no WhatsApp",
+    "fechar": "Fechar",
+    "enviado": "Aberto no WhatsApp ✓",
+    "enviado_dica": "Se o WhatsApp não abriu, toque em “Copiar resumo” e cole a mensagem na conversa com a fotógrafa."
+  },
+  "sv": {
+    "ajuda_btn": "Behöver du hjälp?",
+    "ajuda_h": "Så fungerar det",
+    "ajuda_passos": [
+      "Välj paket: tryck på kortet för det paket du vill ha. Det öppnas och visar vad som ingår.",
+      "Skriv in orten där fotograferingen ska ske. Om det tillkommer resa visas kostnaden automatiskt.",
+      "Välj ett ledigt datum i kalendern. Det är bara ett önskemål: fotografen bekräftar tillgängligheten med dig.",
+      "Tryck på knappen ”Skicka via WhatsApp”. Meddelandet är redan skrivet: du behöver bara trycka på skicka i WhatsApp."
+    ],
+    "ajuda_fim": "Ingen fara: ingenting skickas förrän du trycker på skicka i WhatsApp, och ingen betalning görs på den här webbplatsen.",
+    "ajuda_zap": "Jag vill hellre prata direkt på WhatsApp",
+    "fechar": "Stäng",
+    "enviado": "Öppnat i WhatsApp ✓",
+    "enviado_dica": "Om WhatsApp inte öppnades, tryck på ”Kopiera sammanfattning” och klistra in meddelandet i chatten med fotografen."
+  },
+  "en": {
+    "ajuda_btn": "Need help?",
+    "ajuda_h": "How it works",
+    "ajuda_passos": [
+      "Choose a package: tap the card of the package you prefer. It opens and shows what is included.",
+      "Type the city where the session will take place. If there is a travel fee, it appears automatically.",
+      "Pick a free date in the calendar. It is only a preference: the photographer will confirm availability with you.",
+      "Tap the “Send on WhatsApp” button. The message is already written: you just need to press send in WhatsApp."
+    ],
+    "ajuda_fim": "Don't worry: nothing is sent until you press send in WhatsApp, and no payment is made on this website.",
+    "ajuda_zap": "I'd rather chat directly on WhatsApp",
+    "fechar": "Close",
+    "enviado": "Opened in WhatsApp ✓",
+    "enviado_dica": "If WhatsApp did not open, tap “Copy summary” and paste the message into your chat with the photographer."
+  }
+}

@@ -1,0 +1,14 @@
+h2.passo::before{content:attr(data-n);display:inline-flex;align-items:center;justify-content:center;width:32px;height:32px;margin-right:12px;border-radius:50%;background:var(--accent2);color:var(--accent);font-family:var(--sans);font-size:15px;font-weight:500;vertical-align:middle;position:relative;top:-2px}
+.ajuda-btn{margin-top:10px;background:transparent;border:1px solid var(--accent);color:var(--accent);border-radius:999px;padding:10px 20px;font-size:15px;cursor:pointer}
+.ajuda-btn:hover{background:var(--accent2)}
+.ajuda{position:fixed;inset:0;background:rgba(40,28,22,.55);z-index:60;display:none;align-items:center;justify-content:center;padding:18px}
+.ajuda.on{display:flex}
+.ajuda-in{position:relative;background:var(--card);border-radius:18px;padding:26px 24px 24px;max-width:480px;width:100%;max-height:88vh;overflow:auto}
+.ajuda-in h2{margin:0 0 6px;font-size:28px}
+.ajuda-in ol{padding-left:22px;margin:12px 0}
+.ajuda-in li{margin:12px 0;line-height:1.6}
+.ajuda-in .btn{display:inline-block;margin-top:8px}
+.ajuda-x{position:absolute;top:8px;right:12px;border:0;background:transparent;font-size:30px;line-height:1;color:var(--muted);cursor:pointer}
+.toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(150px + env(safe-area-inset-bottom,0px));background:var(--ink);color:var(--bg);padding:12px 16px;border-radius:12px;font-size:14px;line-height:1.5;max-width:90vw;width:max-content;z-index:70;display:none}
+.toast.on{display:block}
+.btn[data-busy]{opacity:.6}
