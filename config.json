@@ -55,5 +55,8 @@
     "Norrköping"
    ]
   }
- ]
+ ],
+ "pagamento": {
+  "sinal": 25
+ }
 }

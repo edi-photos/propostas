@@ -73,10 +73,10 @@
       ],
       "invest_h": "Disponibilidade, confirmação e pagamento",
       "invest": [
-        "A data indicada é apenas uma preferência e não representa uma reserva. A disponibilidade será avaliada e confirmada pessoalmente por Edilaine após o contato.",
-        "Após a confirmação da disponibilidade e a aceitação da proposta, 50% do valor total do pacote será pago para confirmar a reserva. Os 50% restantes serão pagos na entrega das fotografias finais.",
-        "O pagamento é realizado diretamente à fotógrafa, via Swish ou dinheiro. Não são realizados pagamentos por este site.",
-        "Pedidos de remarcação ou cancelamento serão tratados com diálogo e bom senso. Sempre que possível, a remarcação será combinada sem custo, conforme a disponibilidade. Em caso de imprevisto no dia, pedimos que entre em contato com Edilaine assim que possível."
+        "A data escolhida é apenas uma preferência e não representa uma reserva. A disponibilidade é avaliada e confirmada pela fotógrafa após o contato.",
+        "Depois da confirmação da disponibilidade e da aceitação da proposta, um sinal de {sinal}% do valor do pacote confirma a reserva. Os {resto}% restantes são pagos na entrega das fotografias finais.",
+        "O pagamento é feito diretamente à fotógrafa, por Swish ou em dinheiro. Este site não processa pagamentos.",
+        "Pedidos de remarcação ou cancelamento devem ser comunicados o quanto antes. Sempre que possível, a remarcação é combinada sem custo, conforme a disponibilidade. Em caso de imprevisto no dia do ensaio, pedimos que entre em contato com a fotógrafa assim que possível."
       ],
       "nome_label": "Seu nome e o do pet (para o resumo)",
       "nome_ph": "Ex.: Ana e Thor",
@@ -137,10 +137,10 @@
       ],
       "invest_h": "Tillgänglighet, bekräftelse och betalning",
       "invest": [
-        "Det datum som anges är endast ett önskemål och innebär inte en bokning. Edilaine kontrollerar tillgängligheten och bekräftar personligen efter kontakt.",
-        "När Edilaine har bekräftat tillgängligheten och kunden har godkänt erbjudandet betalas 50 % av paketets totalpris för att bekräfta bokningen. Resterande 50 % betalas när de färdiga fotografierna levereras.",
-        "Betalning sker direkt till fotografen via Swish eller kontant. Inga betalningar görs via denna webbplats.",
-        "Önskemål om ombokning eller avbokning hanteras med dialog och förståelse. När det är möjligt försöker vi ordna en ny tid utan extra kostnad, beroende på tillgänglighet. Om något oförutsett händer på fotograferingsdagen ber vi dig kontakta Edilaine så snart som möjligt."
+        "Det valda datumet är endast ett önskemål och innebär ingen bokning. Fotografen kontrollerar tillgängligheten och bekräftar den efter att du har tagit kontakt.",
+        "När tillgängligheten är bekräftad och erbjudandet godkänt bekräftas bokningen med en handpenning på {sinal} % av paketpriset. Resterande {resto} % betalas när de färdiga bilderna levereras.",
+        "Betalning sker direkt till fotografen via Swish eller kontant. Webbplatsen hanterar inga betalningar.",
+        "Önskemål om ombokning eller avbokning ska meddelas så snart som möjligt. När det är möjligt ordnas ombokning utan extra kostnad, utifrån tillgänglighet. Om något oförutsett inträffar på dagen för fotograferingen ber vi dig kontakta fotografen så snart som möjligt."
       ],
       "nome_label": "Ditt namn och djurets namn (till sammanfattningen)",
       "nome_ph": "T.ex.: Anna och Thor",
@@ -201,10 +201,10 @@
       ],
       "invest_h": "Availability, confirmation and payment",
       "invest": [
-        "The date you select is a preference only and does not constitute a booking. Edilaine will personally review availability and confirm it after you get in touch.",
-        "Once Edilaine has confirmed availability and the client has accepted the proposal, 50% of the total package price is payable to confirm the booking. The remaining 50% is due upon delivery of the final photographs.",
-        "Payment is made directly to the photographer via Swish or cash. No payments are processed through this website.",
-        "Rescheduling and cancellation requests will be handled with understanding and open communication. Where possible, we will arrange a new date at no extra cost, subject to availability. If something unexpected happens on the day of the photoshoot, please contact Edilaine as soon as possible."
+        "The date you select is a preference only and does not constitute a booking. The photographer will check availability and confirm it after you get in touch.",
+        "Once availability is confirmed and the proposal accepted, a deposit of {sinal}% of the package price secures the booking. The remaining {resto}% is due when the final photographs are delivered.",
+        "Payment is made directly to the photographer via Swish or cash. This website does not process payments.",
+        "Please let the photographer know as early as possible if you need to reschedule or cancel. Where possible, rescheduling is arranged at no extra cost, subject to availability. If something unexpected happens on the day of the session, please contact the photographer as soon as possible."
       ],
       "nome_label": "Your name and your pet's name (for the summary)",
       "nome_ph": "E.g.: Anna and Thor",

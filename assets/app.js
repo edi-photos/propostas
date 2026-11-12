@@ -8,6 +8,7 @@ var app=document.getElementById("app"),CFG,UI,D,LANGS,busy={},bstate="loading";
 var S={sel:-1,city:"",nome:"",pick:null,lang:"pt",view:null};
 Promise.all([J(ROOT+"config.json"),J(ROOT+"assets/ui.json"),J("dados.json")]).then(function(r){CFG=r[0];UI=r[1];D=r[2];start()}).catch(function(){app.textContent="Não foi possível carregar esta proposta. / Could not load this proposal."});
 
+function pag(x){var s=(CFG.pagamento&&+CFG.pagamento.sinal)||25;return x.replace(/\{sinal\}/g,s).replace(/\{resto\}/g,100-s)}
 function T(){return D.textos[S.lang]}
 function U(){return UI[S.lang]}
 function fmt(n){return n.toLocaleString(LOC[S.lang])+" SEK"}
@@ -46,7 +47,7 @@ function render(){
  h+="<h2>"+e(u.local_h)+'</h2><div class="box"><label for="city">'+e(u.cidade_label)+'</label><input id="city" type="text" list="cities" autocomplete="off" placeholder="'+e(u.cidade_ph)+'" value="'+e(S.city)+'"><datalist id="cities">'+CFG.zonas.map(function(z){return z.cidades.map(function(c){return'<option value="'+e(c)+'">'}).join("")}).join("")+'</datalist><div class="tbox" id="tbox"></div>'+(t.nota_local?'<p class="note">'+e(t.nota_local)+"</p>":"")+"</div>";
  h+="<h2>"+e(u.data_h)+'</h2><div class="box"><div id="cal"></div><p class="cal-leg" id="calmsg"></p></div>';
  h+="<h2>"+e(t.entrega_h)+'</h2><div class="box">'+t.entrega.map(function(x){return"<p>"+e(x)+"</p>"}).join("")+"</div>";
- h+="<h2>"+e(t.invest_h)+'</h2><div class="box">'+t.invest.map(function(x){return"<p>"+e(x)+"</p>"}).join("")+'<label for="nome">'+e(t.nome_label)+'</label><input id="nome" type="text" placeholder="'+e(t.nome_ph)+'" value="'+e(S.nome)+'"></div>';
+ h+="<h2>"+e(t.invest_h)+'</h2><div class="box">'+t.invest.map(function(x){return"<p>"+e(pag(x))+"</p>"}).join("")+'<label for="nome">'+e(t.nome_label)+'</label><input id="nome" type="text" placeholder="'+e(t.nome_ph)+'" value="'+e(S.nome)+'"></div>';
  h+="<footer>"+t.fecho.map(function(x){return"<p>"+e(x)+"</p>"}).join("")+"<p><b>"+e(t.assinatura)+"</b><br>"+e(t.funcao)+'<br><a href="https://instagram.com/'+e(CFG.instagram)+'" target="_blank" rel="noopener">@'+e(CFG.instagram)+'</a> · <a href="https://wa.me/'+e(CFG.telefone_whatsapp)+'" target="_blank" rel="noopener">'+e(CFG.telefone_exibicao)+'</a></p><p class="note"><a href="'+ROOT+'privacidade/">'+e(({pt:"Política de privacidade",sv:"Integritetspolicy",en:"Privacy policy"})[S.lang])+'</a></p><img class="flogo" alt="" src="'+ROOT+'assets/logo.png"></footer></div>';
  h+='<div class="bar"><div><div class="total" id="total"></div><div class="btns"><button type="button" class="btn alt" id="copy">'+e(u.copiar)+'</button><a class="btn" id="wa" aria-disabled="true" target="_blank" rel="noopener">'+e(u.whatsapp)+"</a></div></div></div>";
  app.innerHTML=h;
