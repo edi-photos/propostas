@@ -29,7 +29,7 @@
     "m_conf": "(a confirmar)",
     "m_valor": "Valor",
     "m_valor_final": "(valor final confirmado conforme local)",
-    "m_pag": "Após a confirmação da disponibilidade e a aceitação da proposta, 50% do valor é pago para confirmar a reserva e os 50% restantes na entrega das fotografias finais. Pagamento direto à fotógrafa via Swish ou dinheiro. Não há pagamentos por este site.",
+    "m_pag": "Após a confirmação da disponibilidade e a aceitação da proposta, 25% do valor é pago para confirmar a reserva e os 75% restantes na entrega das fotografias finais. Pagamento direto à fotógrafa via Swish ou dinheiro. Não há pagamentos por este site.",
     "carregar_erro": "Não foi possível carregar esta proposta.",
     "voltar": "Início"
   },
@@ -63,7 +63,7 @@
     "m_conf": "(bekräftas)",
     "m_valor": "Pris",
     "m_valor_final": "(slutpris bekräftas beroende på plats)",
-    "m_pag": "När tillgängligheten har bekräftats av Edilaine och kunden har godkänt erbjudandet betalas 50 % för att bekräfta bokningen. Resterande 50 % betalas när de färdiga fotografierna levereras. Betalning sker direkt till fotografen via Swish eller kontant. Inga betalningar görs via denna webbplats.",
+    "m_pag": "När tillgängligheten har bekräftats av Edilaine och kunden har godkänt erbjudandet betalas 25 % för att bekräfta bokningen. Resterande 75 % betalas när de färdiga fotografierna levereras. Betalning sker direkt till fotografen via Swish eller kontant. Inga betalningar görs via denna webbplats.",
     "carregar_erro": "Det gick inte att ladda den här offerten.",
     "voltar": "Hem"
   },
@@ -97,7 +97,7 @@
     "m_conf": "(to be confirmed)",
     "m_valor": "Price",
     "m_valor_final": "(final price confirmed depending on location)",
-    "m_pag": "Once Edilaine has confirmed availability and the client has accepted the proposal, 50% of the price is paid to confirm the booking. The remaining 50% is due upon delivery of the final photographs. Payment is made directly to the photographer via Swish or cash. No payments are processed through this website.",
+    "m_pag": "Once Edilaine has confirmed availability and the client has accepted the proposal, 25% of the price is paid to confirm the booking. The remaining 75% is due upon delivery of the final photographs. Payment is made directly to the photographer via Swish or cash. No payments are processed through this website.",
     "carregar_erro": "This proposal could not be loaded.",
     "voltar": "Home"
   }
