@@ -22,6 +22,7 @@ function T(){return P.textos[S.lang]}
 function setLang(l){S.lang=l;try{localStorage.setItem("lang",l)}catch(x){}var y=window.scrollY;render();window.scrollTo(0,y)}
 function fmt(n){return n.toLocaleString(LOC[S.lang])+" SEK"}
 function catName(c){var m=P.categorias&&P.categorias[c];return m?(m[S.lang]||m.pt||c):c.replace(/[-_]+/g," ").replace(/^./,function(x){return x.toUpperCase()})}
+function hojeSuecia(){try{var p=new Intl.DateTimeFormat("sv-SE",{timeZone:"Europe/Stockholm",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date()).split("-");return new Date(+p[0],+p[1]-1,+p[2])}catch(x){var n=new Date();return new Date(n.getFullYear(),n.getMonth(),n.getDate())}}
 function iso(d){return d.getFullYear()+"-"+("0"+(d.getMonth()+1)).slice(-2)+"-"+("0"+d.getDate()).slice(-2)}
 function foto(f){return ROOT+encodeURI(f.arquivo)}
 
@@ -35,7 +36,7 @@ function rodape(t){
 function hero(t,small,h1,p){return'<header class="hero"><img class="logo" alt="Edi" src="'+ROOT+'assets/logo.png"><small>'+e(small)+"</small><h1>"+e(h1)+"</h1>"+(p?"<p>"+e(p)+"</p>":"")+"</header>"}
 
 function home(t){
- var hoje=iso(new Date()),h=hero(t,t.etiqueta,t.titulo,t.intro);
+ var hoje=iso(hojeSuecia()),h=hero(t,t.etiqueta,t.titulo,t.intro);
  var cards=CARDS.filter(function(c){return !c.d.calendario||!c.d.calendario.fim||c.d.calendario.fim>=hoje});
  h+='<h2 id="ensaios">'+e(t.ensaios_h)+'</h2><div class="cards">'+cards.map(function(c){
   var tx=c.d.textos[S.lang]||c.d.textos[c.d.idioma_padrao]||c.d.textos[Object.keys(c.d.textos)[0]],min=Math.min.apply(null,c.d.pacotes.map(function(p){return p.preco}));

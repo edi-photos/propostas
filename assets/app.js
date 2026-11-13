@@ -23,13 +23,14 @@ function pickLang(){
  var c=[q,st,nav,D.idioma_padrao].filter(function(l){return l&&LANGS.indexOf(l)>=0});
  return c[0]||LANGS[0];
 }
+function hojeSuecia(){try{var p=new Intl.DateTimeFormat("sv-SE",{timeZone:"Europe/Stockholm",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date()).split("-");return new Date(+p[0],+p[1]-1,+p[2])}catch(x){var n=new Date();return new Date(n.getFullYear(),n.getMonth(),n.getDate())}}
 function start(){
  var lk=document.createElement("link");lk.rel="stylesheet";lk.href=ROOT+"assets/ajuda.css";document.head.appendChild(lk);
  LANGS=Object.keys(D.textos);S.lang=pickLang();
  var st=document.createElement("style");
  st.textContent=":root{"+D.tema.claro+"}@media (prefers-color-scheme:dark){:root{"+D.tema.escuro+"}}";
  document.head.appendChild(st);
- var cal=D.calendario,now=new Date(),today=new Date(now.getFullYear(),now.getMonth(),now.getDate());
+ var cal=D.calendario,today=hojeSuecia();
  S.first=new Date(today.getFullYear(),today.getMonth(),today.getDate()+(cal.antecedencia_dias||0));
  var p=cal.fim.split("-");S.last=new Date(+p[0],+p[1]-1,+p[2]);
  S.view=new Date(S.first.getFullYear(),S.first.getMonth(),1);
