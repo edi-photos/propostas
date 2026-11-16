@@ -24,7 +24,7 @@
   ],
   "textos": {
     "pt": {
-      "titulo_aba": "Fotografia de Aniversário — Edilaine Oliveira",
+      "titulo_aba": "Fotografia de Aniversário — Edilaine de Oliveira",
       "etiqueta": "FOTOGRAFIA DE ANIVERSÁRIO",
       "titulo": "Uma celebração, muitas histórias. 🎂",
       "intro": [
@@ -84,75 +84,75 @@
         "Uma festa passa. As lembranças ficam. 🤍",
         "Será um prazer registrar os momentos que tornam essa celebração especial para vocês."
       ],
-      "assinatura": "Edilaine Oliveira",
+      "assinatura": "Edilaine de Oliveira",
       "funcao": "Fotógrafa"
     },
     "sv": {
-      "titulo_aba": "Födelsedagsfotografering — Edilaine Oliveira",
+      "titulo_aba": "Födelsedagsfotografering — Edilaine de Oliveira",
       "etiqueta": "FÖDELSEDAGSFOTOGRAFERING",
-      "titulo": "Ett firande, många berättelser. 🎂",
+      "titulo": "Ett firande att minnas. 🎂",
       "intro": [
-        "Varje födelsedag samlar människor, värme och ögonblick som är värda att minnas. Tanken är att dokumentera firandets stämning på ett naturligt sätt: detaljerna, gästerna, kramarna, lekarna och de speciella stunderna under festen."
+        "En födelsedag samlar människor och skapar många ögonblick att minnas. Jag fångar firandets stämning på ett naturligt sätt – från detaljer och gäster till kramar, skratt och andra fina stunder under dagen."
       ],
-      "mensagem": "Hej Edilaine! Jag vill gärna fråga om tillgänglighet för fotografering av ett födelsedagsfirande.",
-      "nota_local": "Fotograferingen sker på den i förväg överenskomna festplatsen. Eventuella extra kostnader för resa eller lokal meddelas innan bokningen bekräftas.",
+      "mensagem": "Hej Edilaine! Jag vill gärna höra om du har möjlighet att fotografera ett födelsedagsfirande.",
+      "nota_local": "Fotograferingen sker på den festplats vi kommer överens om i förväg. Eventuella kostnader för resa eller lokal informeras innan bokningen bekräftas.",
       "pacotes": [
         {
-          "nome": "Små ögonblick",
-          "descricao": "En kort fotografering för att fånga detaljerna och de viktigaste ögonblicken under firandet.",
+          "nome": "Små stunder",
+          "descricao": "En kort fotografering med fokus på detaljerna och de viktigaste ögonblicken under firandet.",
           "inclui": [
             "Fotografering i cirka 30 minuter",
-            "Bilder av detaljer, porträtt och spontana ögonblick under den bokade tiden",
-            "Urval och professionell redigering av 20 bilder",
+            "Bilder av detaljer, porträtt och spontana ögonblick under fotograferingen",
+            "Urval och professionell redigering av 20 fotografier",
             "Digital leverans i hög upplösning"
           ]
         },
         {
-          "nome": "Berättelser att bevara",
-          "descricao": "Mer tid att följa firandet och i lugn och ro fotografera olika stunder, gäster och möten.",
+          "nome": "Minnen att bevara",
+          "descricao": "Mer tid att dokumentera firandet och fånga gästerna, stämningen och de viktiga ögonblicken.",
           "inclui": [
             "Fotografering i cirka 45–60 minuter",
-            "Bilder av dekorationer, gäster, födelsedagsbarnet och firandets ögonblick",
+            "Bilder av dekorationer, gäster, jubilaren och firandets höjdpunkter",
             "Spontana bilder och familjeporträtt",
-            "Urval och professionell redigering av 30 bilder",
+            "Urval och professionell redigering av 30 fotografier",
             "Digital leverans i hög upplösning"
           ]
         },
         {
-          "nome": "Särskilda minnen",
-          "descricao": "En mer omfattande fotografering med extra tid för att berätta firandets historia och fånga fler olika ögonblick.",
+          "nome": "Särskilda stunder",
+          "descricao": "En mer omfattande fotografering med gott om tid att dokumentera firandet och fånga många olika ögonblick.",
           "inclui": [
             "Fotografering i cirka 60–90 minuter",
-            "Bilder av detaljer, gäster, födelsedagsbarnet och överenskomna höjdpunkter",
-            "Spontana bilder, porträtt och samspel under festen",
-            "Urval och professionell redigering av 40 bilder",
+            "Bilder av detaljer, gäster, jubilaren och de höjdpunkter vi har kommit överens om",
+            "Spontana bilder, porträtt och möten under firandet",
+            "Urval och professionell redigering av 40 fotografier",
             "Digital leverans i hög upplösning"
           ]
         }
       ],
-      "entrega_h": "Leverans av bilderna",
+      "entrega_h": "Leverans av bilder",
       "entrega": [
-        "Bilderna levereras digitalt i hög upplösning via ett onlinegalleri eller på annat överenskommet sätt. Alla bilder som ingår väljs ut och redigeras professionellt. RAW-filer och extra bilder ingår inte i standardleveransen.",
-        "Fotograferingen omfattar de ögonblick som inträffar under den bokade tiden. Särskilda moment, som födelsedagssång eller presentöppning, bör planeras i förväg och är beroende av fotograferingens tider."
+        "De färdigredigerade bilderna levereras digitalt i hög upplösning via ett onlinegalleri eller på annat sätt som vi kommer överens om. RAW-filer och bilder utöver det antal som ingår i paketet ingår inte.",
+        "Fotograferingen omfattar de ögonblick som inträffar under den bokade tiden. Om du vill att särskilda moment, till exempel födelsedagssången eller presentöppningen, ska fotograferas behöver vi planera in dem i förväg."
       ],
-      "invest_h": "Tillgänglighet, bokningsbekräftelse och betalning",
+      "invest_h": "Tillgänglighet, bokning och betalning",
       "invest": [
-        "Det valda datumet är endast ett önskemål och innebär ingen bokning. Fotografen kontrollerar tillgängligheten och bekräftar den efter att du har tagit kontakt.",
-        "När tillgängligheten är bekräftad och erbjudandet godkänt bekräftas bokningen med en handpenning på {sinal} % av paketpriset. Resterande {resto} % betalas när de färdiga bilderna levereras.",
-        "Betalning sker direkt till fotografen via Swish eller kontant. Webbplatsen hanterar inga betalningar.",
-        "Önskemål om ombokning eller avbokning ska meddelas så snart som möjligt. När det är möjligt ordnas ombokning utan extra kostnad, utifrån tillgänglighet. Om något oförutsett inträffar på dagen för fotograferingen ber vi dig kontakta fotografen så snart som möjligt."
+        "Det datum du anger är ett önskemål och innebär inte att en bokning är gjord. Edilaine kontrollerar tillgängligheten och bekräftar datumet när du har tagit kontakt.",
+        "När Edilaine har bekräftat tillgängligheten och du har godkänt erbjudandet bekräftas bokningen genom en förskottsbetalning på {sinal} % av paketpriset. Resterande {resto} % betalas när de färdiga bilderna levereras.",
+        "Betalningen görs direkt till fotografen via Swish eller kontant. Webbplatsen hanterar inga betalningar.",
+        "Om du behöver boka om eller avboka, meddela gärna Edilaine så snart som möjligt. Ombokning kan göras utan extra kostnad i mån av tillgänglighet. Om något oförutsett inträffar på fotograferingsdagen, kontakta Edilaine så snart du kan."
       ],
-      "nome_label": "Ditt namn och födelsedagsbarnets namn (för sammanfattningen)",
-      "nome_ph": "T.ex. Anna — Lucas födelsedag",
+      "nome_label": "Ditt namn och jubilarens namn (för sammanfattningen)",
+      "nome_ph": "T.ex. Anna – Lucas födelsedag",
       "fecho": [
-        "En fest går över. Minnena finns kvar. 🤍",
-        "Det blir ett nöje att dokumentera ögonblicken som gör ert firande speciellt."
+        "Festen tar slut. Minnena finns kvar. 🤍",
+        "Det blir ett nöje att fånga ögonblicken som gör ert firande personligt och minnesvärt."
       ],
-      "assinatura": "Edilaine Oliveira",
+      "assinatura": "Edilaine de Oliveira",
       "funcao": "Fotograf"
     },
     "en": {
-      "titulo_aba": "Birthday Photography — Edilaine Oliveira",
+      "titulo_aba": "Birthday Photography — Edilaine de Oliveira",
       "etiqueta": "BIRTHDAY PHOTOGRAPHY",
       "titulo": "One celebration, many stories. 🎂",
       "intro": [
@@ -212,7 +212,7 @@
         "A party ends. The memories remain. 🤍",
         "It will be a pleasure to capture the moments that make your celebration special."
       ],
-      "assinatura": "Edilaine Oliveira",
+      "assinatura": "Edilaine de Oliveira",
       "funcao": "Photographer"
     }
   }

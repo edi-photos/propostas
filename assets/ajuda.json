@@ -18,16 +18,16 @@
     "ajuda_btn": "Behöver du hjälp?",
     "ajuda_h": "Så fungerar det",
     "ajuda_passos": [
-      "Välj paket: tryck på kortet för det paket du vill ha. Det öppnas och visar vad som ingår.",
-      "Skriv in orten där fotograferingen ska ske. Om det tillkommer resa visas kostnaden automatiskt.",
-      "Välj ett ledigt datum i kalendern. Det är bara ett önskemål: fotografen bekräftar tillgängligheten med dig.",
-      "Tryck på knappen ”Skicka via WhatsApp”. Meddelandet är redan skrivet: du behöver bara trycka på skicka i WhatsApp."
+      "Välj ett paket genom att trycka på kortet. Då visas mer information om vad som ingår.",
+      "Ange orten där fotograferingen ska äga rum. Om en reseavgift tillkommer visas den automatiskt när det är möjligt.",
+      "Välj ett önskat datum i kalendern. Datumet är inte en bokning – Edilaine bekräftar tillgängligheten efter att du har hört av dig.",
+      "Tryck på ”Skicka via WhatsApp”. Ett meddelande förbereds automatiskt. Granska det och skicka det sedan i WhatsApp."
     ],
-    "ajuda_fim": "Ingen fara: ingenting skickas förrän du trycker på skicka i WhatsApp, och ingen betalning görs på den här webbplatsen.",
-    "ajuda_zap": "Jag vill hellre prata direkt på WhatsApp",
+    "ajuda_fim": "Ingenting skickas förrän du själv väljer att skicka meddelandet i WhatsApp. Du betalar inte något via den här webbplatsen.",
+    "ajuda_zap": "Jag vill hellre kontakta dig direkt via WhatsApp",
     "fechar": "Stäng",
-    "enviado": "Öppnat i WhatsApp ✓",
-    "enviado_dica": "Om WhatsApp inte öppnades, tryck på ”Kopiera sammanfattning” och klistra in meddelandet i chatten med fotografen."
+    "enviado": "WhatsApp har öppnats ✓",
+    "enviado_dica": "Om WhatsApp inte öppnas kan du välja ”Kopiera sammanfattning” och klistra in meddelandet i chatten med fotografen."
   },
   "en": {
     "ajuda_btn": "Need help?",

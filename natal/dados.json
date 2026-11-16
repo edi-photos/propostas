@@ -103,76 +103,76 @@
     "sv": {
       "titulo_aba": "Julkollektion — Edilaine de Oliveira",
       "etiqueta": "JULKOLLEKTION",
-      "titulo": "En jul, många minnen. ❤️",
+      "titulo": "Julminnen att bevara. ❤️",
       "intro": [
-        "Julen har ett alldeles särskilt sätt att samla de människor vi älskar. Det är kramarna, leendena, barnens förväntan och de små stunder som år efter år blir en del av familjens historia.",
-        "Tanken med julkollektionen är att förvandla den här speciella tiden till naturliga, varsamma bilder fyllda av värme – minnen som ni kan återvända till med glädje varje ny jul."
+        "Julen för oss samman med människor vi tycker om. Det är kramarna, leendena, barnens förväntan och de små stunderna som med tiden blir en del av familjens historia.",
+        "Med julkollektionen vill jag fånga den här speciella tiden i naturliga och stämningsfulla bilder – minnen att återvända till och uppskatta, jul efter jul."
       ],
-      "mensagem": "Hej Edilaine! Jag vill gärna boka en julfotografering.",
-      "nota_local": "Platsen bestäms i förväg. Eventuella extra kostnader för resa eller lokalhyra meddelas innan fotograferingen bekräftas.",
+      "mensagem": "Hej Edilaine! Jag är intresserad av att boka en julfotografering.",
+      "nota_local": "Platsen bestäms i förväg. Eventuella kostnader för resa eller lokalhyra meddelas innan bokningen bekräftas.",
       "pacotes": [
         {
-          "nome": "Små förtrollningar",
-          "descricao": "En kort och varsam upplevelse för att fånga julens själ i familjen. Perfekt för dig som vill spara stunden i spontana bilder, fyllda av värme och betydelse.",
+          "nome": "Små julstunder",
+          "descricao": "En kort och avslappnad fotografering för att fånga julstämningen och familjens gemenskap i naturliga bilder.",
           "inclui": [
-            "Fotosession på cirka 20–30 minuter",
-            "Upp till 5 deltagare, barn inräknade",
-            "En julig miljö eller en i förväg bestämd plats",
-            "Vägledning under sessionen för naturliga och spontana porträtt",
-            "Urval och professionell redigering av 20 bilder",
+            "Fotografering i cirka 20–30 minuter",
+            "Upp till 5 personer, inklusive barn",
+            "I en julinspirerad miljö eller på en plats som bestäms i förväg",
+            "Vägledning för naturliga och spontana porträtt",
+            "Urval och professionell redigering av 20 fotografier",
             "Digital leverans i hög upplösning"
           ],
-          "subtitulo": "Minisession · 20 redigerade bilder"
+          "subtitulo": "Minifotografering · 20 redigerade bilder"
         },
         {
-          "nome": "Magi i familjen",
-          "descricao": "Mer tid att njuta av upplevelsen, utforska olika kompositioner och fånga de små detaljer som gör varje familj unik. Ett tillfälle att spara inte bara porträtt, utan också banden, leendena och de spontana stunderna som är en del av er historia.",
+          "nome": "Julmagi tillsammans",
+          "descricao": "Mer tid att njuta av fotograferingen och fånga både familjeporträtt och de små detaljerna som gör er familj unik. Bilder som berättar om gemenskapen, leendena och de spontana stunderna.",
           "inclui": [
-            "Fotosession på cirka 45–60 minuter",
-            "Upp till 5 deltagare, barn inräknade",
-            "En julig miljö eller en i förväg bestämd plats",
-            "Större variation av poser, individuella porträtt och familjebilder",
-            "Vägledning och fotografisk regi under sessionen",
-            "Urval och professionell redigering av 30 bilder",
+            "Fotografering i cirka 45–60 minuter",
+            "Upp till 5 personer, inklusive barn",
+            "I en julinspirerad miljö eller på en plats som bestäms i förväg",
+            "Varierade poser, individuella porträtt och familjebilder",
+            "Personlig vägledning under fotograferingen",
+            "Urval och professionell redigering av 30 fotografier",
             "Digital leverans i hög upplösning"
           ],
-          "subtitulo": "Hel session · 30 redigerade bilder"
+          "subtitulo": "Längre fotografering · 30 redigerade bilder"
         },
         {
-          "nome": "Jul under stjärnorna",
-          "descricao": "För familjer som vill fira jul i det svenska landskapet och ta del av årstidens charm, det naturliga ljuset och miljöerna utomhus. En upplevelse som är tänkt att skapa bilder med en alldeles särskild stämning, där miljöns skönhet möter de äkta ögonblicken mellan de människor som betyder mest.",
+          "nome": "Jul i vinterlandskapet",
+          "descricao": "För familjer som vill fotograferas utomhus och ta vara på det svenska vinterlandskapet, årstidens ljus och naturens stämning. En fotografering där omgivningens skönhet möter de äkta ögonblicken mellan er.",
           "inclui": [
-            "Fotosession utomhus på cirka 60–90 minuter",
-            "Upp till 5 deltagare, barn inräknade",
-            "Planering av plats i förväg, med hänsyn till önskad stil och årstidens förhållanden",
-            "Vägledning och fotografisk regi under sessionen",
+            "Utomhusfotografering i cirka 60–90 minuter",
+            "Upp till 5 personer, inklusive barn",
+            "Planering av plats i förväg, med hänsyn till önskad stil och väderförhållanden",
+            "Personlig vägledning under fotograferingen",
             "Individuella porträtt och familjebilder",
-            "Urval och professionell redigering av 40 bilder",
+            "Urval och professionell redigering av 40 fotografier",
             "Digital leverans i hög upplösning"
           ],
-          "subtitulo": "Utomhusupplevelse · 40 redigerade bilder"
+          "subtitulo": "Utomhusfotografering · 40 redigerade bilder"
         }
       ],
-      "entrega_h": "Leverans av bilderna",
+      "entrega_h": "Leverans av bilder",
       "entrega": [
-        "Alla bilder som ingår i paketen går igenom en noggrann process av urval och redigering, med målet att bevara ett naturligt, varsamt och tidlöst utseende.",
-        "Bilderna levereras digitalt i hög upplösning via ett onlinegalleri eller på annat i förväg överenskommet sätt.",
-        "RAW-filer och extra bilder som inte ingår i paketet ingår inte i standardleveransen."
+        "Alla bilder som ingår i paketen väljs ut och redigeras med omsorg, med fokus på ett naturligt och tidlöst uttryck.",
+        "Bilderna levereras digitalt i hög upplösning via ett onlinegalleri eller på ett annat sätt som vi kommer överens om i förväg.",
+        "RAW-filer och bilder utöver det antal som ingår i paketet ingår inte i standardleveransen."
       ],
-      "invest_h": "Tillgänglighet, bekräftelse och betalning",
+      "invest_h": "Tillgänglighet, bokning och betalning",
       "invest": [
-        "Det valda datumet är endast ett önskemål och innebär ingen bokning. Fotografen kontrollerar tillgängligheten och bekräftar den efter att du har tagit kontakt.",
-        "När tillgängligheten är bekräftad och erbjudandet godkänt bekräftas bokningen med en handpenning på {sinal} % av paketpriset. Resterande {resto} % betalas när de färdiga bilderna levereras.",
-        "Betalning sker direkt till fotografen via Swish eller kontant. Webbplatsen hanterar inga betalningar.",
-        "Önskemål om ombokning eller avbokning ska meddelas så snart som möjligt. När det är möjligt ordnas ombokning utan extra kostnad, utifrån tillgänglighet. Om något oförutsett inträffar på dagen för fotograferingen ber vi dig kontakta fotografen så snart som möjligt."
+        "Det datum du anger är ett önskemål och innebär inte att en bokning är gjord. Edilaine kontrollerar tillgängligheten och bekräftar datumet när du har tagit kontakt.",
+        "När Edilaine har bekräftat tillgängligheten och du har godkänt erbjudandet bekräftas bokningen genom en förskottsbetalning på {sinal} % av paketpriset. Resterande {resto} % betalas när de färdiga bilderna levereras.",
+        "Betalningen görs direkt till fotografen via Swish eller kontant. Webbplatsen hanterar inga betalningar.",
+        "Om du behöver boka om eller avboka, meddela gärna Edilaine så snart som möjligt. Ombokning kan göras utan extra kostnad i mån av tillgänglighet. Om något oförutsett inträffar på fotograferingsdagen, kontakta Edilaine så snart du kan."
       ],
-      "nome_label": "Ditt namn eller familjens namn (till sammanfattningen)",
-      "nome_ph": "T.ex.: Familjen Silva",
+      "nome_label": "Ditt namn eller familjens namn (för sammanfattningen)",
+      "nome_ph": "T.ex. Familjen Silva",
       "fecho": [
-        "Må den här julen bli ett minne för alltid ✨",
-        "Mer än julbilder vill jag skapa minnen från en period i livet som går fort. Bilder att titta på igen, dela och bevara med värme, idag och under de många jular som ännu ska komma.",
-        "Det blir ett nöje att få vara en del av er historia.",
-        "Med värme,"
+        "Låt julens minnen leva kvar ✨",
+        "Målet är att skapa mer än julbilder – fotografier som bevarar en tid i livet som går fort. Bilder att se tillbaka på, dela och uppskatta, både nu och under många jular framöver.",
+        "Det blir fint att få vara med och skapa minnen tillsammans med er.",
+        "Varma hälsningar,"
       ],
       "assinatura": "Edilaine de Oliveira",
       "funcao": "Fotograf"
