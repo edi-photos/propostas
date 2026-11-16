@@ -36,5 +36,7 @@ const teste = require("./testar-agenda.js");
     console.error("Erro ao interpretar a agenda: " + e.message + ". Nada foi alterado.");
     process.exit(1);
   }
-  console.log("Datas ocupadas:", r.dias.length);
+  console.log("Eventos encontrados na agenda:", r.eventos);
+  console.log("Datas ocupadas:", r.dias.length + (r.dias.length ? " (de " + r.dias[0] + " até " + r.dias[r.dias.length - 1] + ")" : ""));
+  if (r.eventos === 0) console.warn("Atenção: a agenda lida não tem nenhum evento. Confira se o endereço secreto é da agenda certa.");
 })();
