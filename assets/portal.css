@@ -42,3 +42,37 @@
 .dica span{font-size:15.5px;line-height:1.65}
 .nav a{font-weight:400}
 .contato p{line-height:1.7}
+
+/* Página inicial e páginas institucionais — acabamento editorial */
+.cards{grid-template-columns:repeat(auto-fit,minmax(245px,1fr));gap:16px}
+.card{position:relative;min-height:220px;padding:25px 23px 22px;border:1px solid var(--line);border-radius:4px;background:rgba(255,254,250,.94);box-shadow:0 8px 28px rgba(56,43,33,.025);transition:transform .2s,border-color .2s,box-shadow .2s}
+.card:hover{border-color:#b79b86;transform:translateY(-3px);box-shadow:0 14px 32px rgba(56,43,33,.07)}
+.card small{font-size:10px;letter-spacing:.22em}
+.card h3{font-size:29px;line-height:1.12;margin:9px 0 3px}
+.card .preco{font-size:13px;letter-spacing:.035em;color:var(--muted)}
+.card .ir{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);padding-top:18px}
+.chamada{padding:25px;border-radius:4px;background:var(--card);border:1px solid var(--line)}
+.chamada p{max-width:650px;font-size:15px;line-height:1.75}
+.vitrine{gap:8px;margin:18px 0}
+.vitrine img{border-radius:2px;aspect-ratio:4/5;object-fit:cover}
+.chips{gap:7px;margin:10px 0 20px}
+.chip{border-radius:3px;padding:8px 14px;font-size:12px;letter-spacing:.04em}
+.chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink)}
+.mural{columns:3 190px;column-gap:12px}
+.foto{margin-bottom:12px}
+.foto img{border-radius:2px;transition:opacity .2s}
+.foto:hover img{opacity:.9}
+.dica{padding:15px 0}
+.dica b{font-size:17px}
+.dica span{font-size:14px;line-height:1.75}
+.pagina .wrap{padding-bottom:45px}
+.contato .btns{gap:9px}
+@media(max-width:680px){
+ .cards{grid-template-columns:1fr;gap:11px}
+ .card{min-height:185px;padding:21px}
+ .card h3{font-size:27px}
+ .vitrine{grid-template-columns:repeat(2,1fr)}
+ .mural{columns:2 140px;column-gap:8px}
+ .foto{margin-bottom:8px}
+ .chamada{padding:18px}
+}

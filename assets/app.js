@@ -44,7 +44,7 @@ function render(){
  document.documentElement.lang=S.lang;document.title=t.titulo_aba;
  var h='<div class="wrap">';
  h+='<div class="topo"><a class="voltar" href="'+ROOT+'">← '+e(u.voltar)+'</a>';if(LANGS.length>1){h+='<div class="lang">'+LANGS.map(function(l){return'<button type="button" data-l="'+l+'" aria-pressed="'+(l===S.lang)+'">'+l.toUpperCase()+"</button>"}).join("")+"</div>"}h+="</div>";
- h+='<header class="hero"><img class="logo" alt="Edi" src="'+ROOT+'assets/logo.png"><small>'+e(t.etiqueta)+"</small><h1>"+e(t.titulo)+"</h1>"+t.intro.map(function(x){return"<p>"+e(x)+"</p>"}).join("")+"</header>";
+ h+='<header class="hero"><img class="logo" alt="Edilaine de Oliveira" src="'+ROOT+'assets/logo.png"><span class="brand-name">Edilaine de Oliveira</span><small>'+e(t.etiqueta)+"</small><h1>"+e(t.titulo)+"</h1>"+t.intro.map(function(x){return"<p>"+e(x)+"</p>"}).join("")+"</header>";
  var a=A();if(a)h=h.replace(/<\/header>$/,'<button type="button" class="ajuda-btn" id="ajuda">? '+e(a.ajuda_btn)+"</button></header>");
  h+='<h2 class="passo" data-n="1">'+e(u.pacotes_h)+'</h2><div class="pkgs">'+D.pacotes.map(function(p,i){var k=t.pacotes[i];
   return'<button type="button" class="pkg" data-i="'+i+'" aria-pressed="false"><h3><span>'+e(k.nome)+'</span><span class="price">'+(p.a_partir?e(u.a_partir)+" ":"")+fmt(p.preco)+"</span></h3>"+(k.subtitulo?'<em class="sub">'+e(k.subtitulo)+"</em>":"")+"<p>"+e(k.descricao)+"</p><ul>"+k.inclui.map(function(x){return"<li>"+e(x)+"</li>"}).join("")+"</ul></button>"}).join("")+"</div>";

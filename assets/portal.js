@@ -28,15 +28,17 @@ function foto(f){return ROOT+encodeURI(f.arquivo)}
 
 function topo(t){
  var L=[["inicio",ROOT,"home"],["ensaios",ROOT+"#ensaios",""],["portfolio",ROOT+"portfolio/","portfolio"],["dicas",ROOT+"dicas/","dicas"],["contato",ROOT+"#contato",""]];
- return'<div class="topo"><nav class="nav">'+L.map(function(x){return'<a href="'+x[1]+'"'+(x[2]&&x[2]===PAG?' aria-current="page"':"")+">"+e(t.nav[x[0]])+"</a>"}).join("")+'</nav><div class="lang">'+LANGS.map(function(l){return'<button type="button" data-l="'+l+'" aria-pressed="'+(l===S.lang)+'">'+l.toUpperCase()+"</button>"}).join("")+"</div></div>";
+ return'<div class="topo"><nav class="nav" aria-label="'+e(t.nav.contato)+'">'+L.map(function(x){return'<a href="'+x[1]+'"'+(x[2]&&x[2]===PAG?' aria-current="page"':"")+">"+e(t.nav[x[0]])+"</a>"}).join("")+'</nav><div class="lang">'+LANGS.map(function(l){return'<button type="button" data-l="'+l+'" aria-pressed="'+(l===S.lang)+'">'+l.toUpperCase()+"</button>"}).join("")+"</div></div>";
 }
 function rodape(t){
  return'<footer id="contato" class="contato"><h2>'+e(t.contato_h)+"</h2><p>"+e(t.contato_txt)+'</p><div class="btns"><a class="btn" href="https://wa.me/'+e(CFG.telefone_whatsapp)+'" target="_blank" rel="noopener">'+e(t.whatsapp)+'</a><a class="btn alt" href="https://instagram.com/'+e(CFG.instagram)+'" target="_blank" rel="noopener">'+e(t.instagram)+'</a></div><p style="margin-top:22px"><b>'+e(t.assinatura)+"</b><br>"+e(t.funcao)+'</p><p class="note"><a href="'+ROOT+'privacidade/">'+e(PRIV[S.lang])+'</a></p><img class="flogo" alt="" src="'+ROOT+'assets/logo.png"></footer>';
 }
-function hero(t,small,h1,p){return'<header class="hero"><img class="logo" alt="Edi" src="'+ROOT+'assets/logo.png"><small>'+e(small)+"</small><h1>"+e(h1)+"</h1>"+(p?"<p>"+e(p)+"</p>":"")+"</header>"}
+function hero(t,small,h1,p){return'<header class="hero"><img class="logo" alt="Edilaine de Oliveira" src="'+ROOT+'assets/logo.png"><span class="brand-name">Edilaine de Oliveira</span><small>'+e(small)+"</small><h1>"+e(h1)+"</h1>"+(p?"<p>"+e(p)+"</p>":"")+"</header>"}
 
 function home(t){
  var hoje=iso(hojeSuecia()),h=hero(t,t.etiqueta,t.titulo,t.intro);
+ var localLine={pt:"Södertälje · Estocolmo e região",sv:"Södertälje · Stockholm med omnejd",en:"Södertälje · Stockholm and surrounding areas"};
+ h+='<p class="location-note">'+e(localLine[S.lang]||localLine.sv)+"</p>";
  var cards=CARDS.filter(function(c){return !c.d.calendario||!c.d.calendario.fim||c.d.calendario.fim>=hoje});
  h+='<h2 id="ensaios">'+e(t.ensaios_h)+'</h2><div class="cards">'+cards.map(function(c){
   var tx=c.d.textos[S.lang]||c.d.textos[c.d.idioma_padrao]||c.d.textos[Object.keys(c.d.textos)[0]],min=Math.min.apply(null,c.d.pacotes.map(function(p){return p.preco}));

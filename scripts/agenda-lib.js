@@ -110,7 +110,7 @@ function diasOcupados(ics, hoje, horizonteDias) {
     }
   });
 
-  return { dias: Object.keys(dias).sort(), avisos: avisos, eventos: vevents.length };
+  return { dias: Object.keys(dias).sort(), avisos: avisos };
 }
 
 module.exports = { diasOcupados, diaSuecia, mesSuecia, somaDias };
